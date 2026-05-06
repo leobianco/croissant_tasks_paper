@@ -1,0 +1,7457 @@
+[
+  {
+    "filename": "case0001_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Septo-optic dysplasia (SOD)**",
+      "other_possible_diagnoses": [
+        "**Isolated Agenesis of the Septum Pellucidum**",
+        "**Lobar Holoprosencephaly**",
+        "**Schizencephaly**",
+        "**Agenesis of the Corpus Callosum with"
+      ]
+    }
+  },
+  {
+    "filename": "case0002_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0003_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0004_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0004_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0004_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0004_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0004_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0004_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0005_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0005_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0005_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0006_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0006_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0007_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Extramedullary Hematopoiesis (EMH)",
+      "other_possible_diagnoses": [
+        "Leukemic Infiltration/Meningeal Carcinomatosis",
+        "Meningioma",
+        "Dural Venous Thrombosis",
+        "Chronic Subdural Hematoma/Hygroma"
+      ]
+    }
+  },
+  {
+    "filename": "case0007_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0008_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Leigh Syndrome**",
+      "other_possible_diagnoses": [
+        "**Pyruvate Dehydrogenase Complex Deficiency (PDCD)**",
+        "**MELAS (Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like Episodes)**",
+        "**Other Mitochondrial Complex Deficiencies (e.g., Complex I or IV"
+      ]
+    }
+  },
+  {
+    "filename": "case0009_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0009_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Pilocytic Astrocytoma**",
+      "other_possible_diagnoses": [
+        "**Hemangioblastoma**",
+        "**Ependymoma**",
+        "**Cavernous Malformation**",
+        "**Medulloblastoma**"
+      ]
+    }
+  },
+  {
+    "filename": "case0009_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0009_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0010_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0010_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0011_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0012_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0012_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0012_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0012_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0012_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0012_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0013_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Brainstem Glioma",
+      "other_possible_diagnoses": [
+        "Brainstem Abscess",
+        "Tumefactive Demyelinating Lesion",
+        "Primary CNS Lymphoma",
+        "Brainstem Encephalitis"
+      ]
+    }
+  },
+  {
+    "filename": "case0013_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0013_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0013_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0013_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0014_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0014_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0014_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0015_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "HHV-6 Encephalitis",
+      "other_possible_diagnoses": [
+        "Herpes Simplex Encephalitis (HSE)",
+        "Cytomegalovirus (CMV) Encephalitis",
+        "Autoimmune Limbic Encephalitis",
+        "Drug-induced Neurotoxicity (e.g., Fludar"
+      ]
+    }
+  },
+  {
+    "filename": "case0015_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0016_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0016_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0016_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0016_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Cerebral Contusion**",
+      "other_possible_diagnoses": [
+        "**Diffuse Axonal Injury (DAI)**",
+        "**Traumatic Intraparenchymal Hemorrhage (tIPH)**",
+        "**Acute Subdural Hematoma (SDH)**",
+        "**Traumatic Subarach"
+      ]
+    }
+  },
+  {
+    "filename": "case0017_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0018_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0018_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0018_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Colloid Cyst of the Third Ventricle (with obstructive hydrocephalus)**",
+      "other_possible_diagnoses": [
+        "**Intraventricular Neurocysticercosis**",
+        "**Ependymal Cyst**",
+        "**Central Neurocytoma**",
+        "**Intraventricular Ependym"
+      ]
+    }
+  },
+  {
+    "filename": "case0019_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0019_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0019_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0019_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0020_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0020_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Focal Cortical Dysplasia (FCD)**",
+      "other_possible_diagnoses": [
+        "**Cortical Tuber (Tuberous Sclerosis Complex)**",
+        "**Polymicrogyria**",
+        "**Pachygyria (focal)**",
+        "**Dysembryoplastic Neuroepithelial Tumor (DNET)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0020_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0021_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0021_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0022_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0022_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0023_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0024_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0024_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0025_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Hypoxic-Ischemic Encephalopathy (HIE)**",
+      "other_possible_diagnoses": [
+        "**Dialysis Disequilibrium Syndrome (DDS)**",
+        "**Posterior Reversible Encephalopathy Syndrome (PRES)**",
+        "**Severe Uremic Encephalopathy**",
+        "**"
+      ]
+    }
+  },
+  {
+    "filename": "case0025_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0026_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0027_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Acute Midbrain Hemorrhage**",
+      "other_possible_diagnoses": [
+        "**Ischemic Stroke (Midbrain Infarct)**",
+        "**Cavernous Malformation (Cavernoma) with Hemorrhage**",
+        "**Brainstem Tumor (e.g., Glioma) with Acute Hemorrhage**"
+      ]
+    }
+  },
+  {
+    "filename": "case0027_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0028_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0029_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0030_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0030_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0031_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0031_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0031_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0032_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0032_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0033_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Metastasis",
+      "other_possible_diagnoses": [
+        "High-grade Brainstem Glioma (e.g., Glioblastoma)",
+        "Primary CNS Lymphoma",
+        "Brainstem Abscess",
+        "Cavernous Malformation with recent hemorrhage"
+      ]
+    }
+  },
+  {
+    "filename": "case0033_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Amyotrophic Lateral Sclerosis (ALS) / Progressive Bulbar Palsy (PBP)**",
+      "other_possible_diagnoses": [
+        "**Brainstem Glioma (low-grade)**",
+        "**Multiple Lacunar Infarcts / Small Vessel Ischemic Disease**",
+        "**Vertebrobasilar Dolichoectasia"
+      ]
+    }
+  },
+  {
+    "filename": "case0033_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Cavernous Malformation (Cavernoma)**",
+      "other_possible_diagnoses": [
+        "**Haemorrhagic Brain Tumor (e.g., Glioblastoma, Metastasis)**",
+        "**Resolving Intraparenchymal Hematoma (from prior haemorrhagic stroke)**",
+        "**Arteriovenous Malformation (AV"
+      ]
+    }
+  },
+  {
+    "filename": "case0034_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0034_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Normal Pressure Hydrocephalus (NPH)",
+      "other_possible_diagnoses": [
+        "Cerebellar Degeneration/Atrophy (e.g., Spinocerebellar Ataxia)",
+        "Diffuse Low-Grade Glioma (e.g., WHO Grade II Astrocytoma)",
+        "Chronic Subdural Hematoma"
+      ]
+    }
+  },
+  {
+    "filename": "case0034_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0034_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0034_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "Normal Pressure Hydrocephalus (NPH)",
+      "other_possible_diagnoses": [
+        "Cerebral Atrophy (Hydrocephalus ex vacuo)",
+        "Obstructive Hydrocephalus (e.g., due to aqueductal stenosis or tumor)",
+        "Chronic Subdural Hematoma",
+        "Brain Tumor (e.g., frontal lobe tumor or periventricular tumor causing hydrocephalus)"
+      ]
+    }
+  },
+  {
+    "filename": "case0035_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0035_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0036_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0036_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0037_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0038_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Methanol poisoning",
+      "other_possible_diagnoses": [
+        "Ethylene glycol poisoning",
+        "Severe global hypoxic-ischemic encephalopathy",
+        "Carbon Monoxide (CO) poisoning",
+        "Cyanide poisoning"
+      ]
+    }
+  },
+  {
+    "filename": "case0038_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0038_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Methanol Poisoning",
+      "other_possible_diagnoses": [
+        "Carbon Monoxide Poisoning",
+        "Hypoxic-Ischemic Encephalopathy",
+        "Cyanide Poisoning",
+        "Acute Necrotizing Encephalopathy"
+      ]
+    }
+  },
+  {
+    "filename": "case0039_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0039_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Pilocytic Astrocytoma**",
+      "other_possible_diagnoses": [
+        "**Arachnoid Cyst**",
+        "**Ganglioglioma**",
+        "**Low-grade Astrocytoma (WHO Grade II)**",
+        "**Craniopharyngioma**"
+      ]
+    }
+  },
+  {
+    "filename": "case0040_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Obstructive Hydrocephalus (likely due to a lesion causing asymmetric ventricular dilatation)",
+      "other_possible_diagnoses": [
+        "Normal Pressure Hydrocephalus (NPH)",
+        "Large Arachnoid Cyst (causing mass effect and obstruction)",
+        "Colloid Cyst of the Third Ventricle (causing asymmetric hydrocephalus)"
+      ]
+    }
+  },
+  {
+    "filename": "case0040_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Early-onset Alzheimer's Disease",
+      "other_possible_diagnoses": [
+        "Frontotemporal Dementia",
+        "HIV-associated neurocognitive disorder (HAND)",
+        "Normal Pressure Hydrocephalus (NPH)",
+        "Creutzfeldt-Jakob Disease (CJD)"
+      ]
+    }
+  },
+  {
+    "filename": "case0040_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0041_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0041_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Glioblastoma Multiforme (GBM)",
+      "other_possible_diagnoses": [
+        "Metastatic Brain Tumor",
+        "Primary CNS Lymphoma",
+        "Brain Abscess",
+        "Anaplastic Astrocytoma (WHO Grade III)"
+      ]
+    }
+  },
+  {
+    "filename": "case0041_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0041_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0041_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "Creutzfeldt-Jakob Disease (CJD)",
+      "other_possible_diagnoses": [
+        "High-Grade Glioma (e.g., Glioblastoma Multiforme)",
+        "Autoimmune Encephalitis",
+        "Viral Encephalitis (e.g., HSV Encephalitis)",
+        "CNS Lymph"
+      ]
+    }
+  },
+  {
+    "filename": "case0041_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0041_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0042_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0043_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0043_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Incontinentia Pigmenti (Bloch-Sulzberger syndrome)",
+      "other_possible_diagnoses": [
+        "Tuberous Sclerosis Complex",
+        "Hypomelanosis of Ito (Pigmentary Mosaicism)",
+        "Neurofibromatosis Type 1",
+        "Periventricular Leukomalacia"
+      ]
+    }
+  },
+  {
+    "filename": "case0043_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0043_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0043_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "Incontinentia Pigmenti",
+      "other_possible_diagnoses": [
+        "Aicardi-Gouti\u00e8res Syndrome",
+        "Tuberous Sclerosis Complex",
+        "Megaloencephalic Leukoencephalopathy with Subcortical Cysts (MLC)",
+        "Hypomelanosis of Ito (Linear and"
+      ]
+    }
+  },
+  {
+    "filename": "case0044_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0045_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0045_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Dysembryoplastic Neuroepithelial Tumor (DNET)**",
+      "other_possible_diagnoses": [
+        "**Ganglioglioma**",
+        "**Pilocytic Astrocytoma**",
+        "**Pleomorphic Xanthoastrocytoma (PXA)**",
+        "**Focal Cortical"
+      ]
+    }
+  },
+  {
+    "filename": "case0045_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0045_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0045_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "Desmoplastic Infantile Ganglioglioma (DIG) / Desmoplastic Infantile Astrocytoma (DIA)",
+      "other_possible_diagnoses": [
+        "Meningioma (especially atypical or anaplastic in a child)",
+        "Inflammatory Pseudotumor / Granulomatous disease (e.g., Tuberculoma)"
+      ]
+    }
+  },
+  {
+    "filename": "case0046_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0047_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Glioblastoma (or other high-grade glioma)**",
+      "other_possible_diagnoses": [
+        "**Metastatic brain tumor (with necrosis/hemorrhage)**",
+        "**Brain Abscess**",
+        "**Subacute/Chronic Infarct (with mass effect/hemorrhagic transformation)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0047_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0047_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0047_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0047_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0047_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0047_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0048_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0048_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0048_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0049_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0049_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0050_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0050_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0050_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Craniopharyngioma**",
+      "other_possible_diagnoses": [
+        "Teratoma",
+        "Germinoma",
+        "Optic Pathway Glioma",
+        "Pituitary Adenoma"
+      ]
+    }
+  },
+  {
+    "filename": "case0050_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Craniopharyngioma",
+      "other_possible_diagnoses": [
+        "Germinoma (or other germ cell tumor)",
+        "Hypothalamic/Optic Pathway Glioma",
+        "Pituitary Adenoma (especially a calcified or hemorrhagic variant)",
+        "Tuberculum Sellae Meningi"
+      ]
+    }
+  },
+  {
+    "filename": "case0051_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0051_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0051_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0051_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0051_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0051_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0051_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0051_008.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0052_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Pericallosal Lipoma",
+      "other_possible_diagnoses": [
+        "Dermoid Cyst",
+        "Teratoma",
+        "Subacute Hemorrhage",
+        "Melanoma Metastasis"
+      ]
+    }
+  },
+  {
+    "filename": "case0052_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0052_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0052_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0052_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0052_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0053_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Osmotic Demyelination Syndrome (Extrapontine Myelinolysis)",
+      "other_possible_diagnoses": [
+        "Wernicke Encephalopathy",
+        "Hypoglycemic Encephalopathy",
+        "Carbon Monoxide Poisoning",
+        "Acute Necrotizing Encephalopathy"
+      ]
+    }
+  },
+  {
+    "filename": "case0053_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0053_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0054_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0055_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0055_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0055_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0055_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0056_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0056_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0056_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0056_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0056_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0057_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0057_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0058_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "High-grade glioma (e.g., Glioblastoma)",
+      "other_possible_diagnoses": [
+        "Primary CNS Lymphoma",
+        "Autoimmune Encephalitis",
+        "CNS Vasculitis",
+        "Infectious Encephalitis (e.g., viral, fungal, or atypical bacterial)"
+      ]
+    }
+  },
+  {
+    "filename": "case0058_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**High-grade Glioma (e.g., Glioblastoma)**",
+      "other_possible_diagnoses": [
+        "**Primary CNS Lymphoma**",
+        "**Metastatic Brain Disease**",
+        "**Tumefactive Demyelination**",
+        "**CNS Vasculitis**"
+      ]
+    }
+  },
+  {
+    "filename": "case0059_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0059_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0059_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0059_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0059_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "Hereditary Hemorrhagic Telangiectasia (HHT) / Osler-Weber-Rendu Disease",
+      "other_possible_diagnoses": [
+        "Neurosarcoidosis",
+        "Primary Angiitis of the Central Nervous System (PACNS) / Cerebral Vasculitis",
+        "Diffuse Cerebral Angiomatosis"
+      ]
+    }
+  },
+  {
+    "filename": "case0059_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0059_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0059_008.png",
+    "predictions": {
+      "most_likely_diagnosis": "Intravascular Lymphoma (formerly Angioendotheliomatosis)",
+      "other_possible_diagnoses": [
+        "Primary Angiitis of the CNS (PACNS)",
+        "Neurosarcoidosis",
+        "Metastatic Carcinoma (e.g., highly vascular primary from lung)",
+        "Fungal Vas"
+      ]
+    }
+  },
+  {
+    "filename": "case0060_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Craniopharyngioma**",
+      "other_possible_diagnoses": [
+        "**Germinoma (Suprasellar Germ Cell Tumor)**",
+        "**Pituitary Adenoma with Cystic Degeneration/Hemorrhage**",
+        "**Hypothalamic/Optic Pathway Glioma**"
+      ]
+    }
+  },
+  {
+    "filename": "case0060_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Craniopharyngioma",
+      "other_possible_diagnoses": [
+        "Pituitary Adenoma (with cystic degeneration or hemorrhage)",
+        "Suprasellar Germinoma",
+        "Hypothalamic/Optic Pathway Glioma",
+        "Complicated Rathke's Cleft Cyst"
+      ]
+    }
+  },
+  {
+    "filename": "case0060_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0060_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0061_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0061_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0062_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0062_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0062_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0062_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0063_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0063_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0063_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0063_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Rhombencephalosynapsis",
+      "other_possible_diagnoses": [
+        "Dandy-Walker Malformation",
+        "Joubert Syndrome",
+        "Cerebellar Hypoplasia (non-specific)",
+        "Pontocerebellar Hypoplasia"
+      ]
+    }
+  },
+  {
+    "filename": "case0063_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Rhombencephalosynapsis**",
+      "other_possible_diagnoses": [
+        "**Dandy-Walker Malformation**",
+        "**Joubert Syndrome**",
+        "**Pontocerebellar Hypoplasia**",
+        "**Isolated Cerebellar Vermis Hypoplasia/Agenesis**"
+      ]
+    }
+  },
+  {
+    "filename": "case0063_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0063_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0063_008.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0064_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0064_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0064_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0064_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Lissencephaly (Type 1 / Classical Lissencephaly)",
+      "other_possible_diagnoses": [
+        "Pachygyria",
+        "Diffuse Polymicrogyria",
+        "Hemimegalencephaly",
+        "Diffuse Cortical Dysplasia (non-specific)"
+      ]
+    }
+  },
+  {
+    "filename": "case0064_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Lissencephaly (Type 1 / Classical Lissencephaly)**",
+      "other_possible_diagnoses": [
+        "**Pachygyria**",
+        "**Diffuse Polymicrogyria**",
+        "**Zellweger Syndrome (Peroxisomal Biogenesis Disorder)**",
+        "**Severe Diff"
+      ]
+    }
+  },
+  {
+    "filename": "case0064_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0064_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0064_008.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0064_009.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0064_010.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0065_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0065_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0065_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0066_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0066_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0067_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0067_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0067_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0067_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0068_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0068_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0068_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0068_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0068_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0068_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0068_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0069_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0069_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0069_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0069_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Cavernous Hemangioma (Cavernous Malformation)",
+      "other_possible_diagnoses": [
+        "Schwannoma",
+        "Orbital Pseudotumor (Idiopathic Orbital Inflammation)",
+        "Lymphoma",
+        "Solitary Neurofibroma"
+      ]
+    }
+  },
+  {
+    "filename": "case0070_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Symptomatic Palatal Tremor (or Palatal Myoclonus) secondary to Pontine Hemorrhage with Hypertrophic Olivary Degeneration.**",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0070_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0070_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Symptomatic Palatal Myoclonus secondary to Hypertrophic Olivary Degeneration (HOD) due to Pontine Hemorrhage**",
+      "other_possible_diagnoses": [
+        "**Essential Palatal Tremor**",
+        "**Pontine Cavernous Malformation with Hemorrhage**",
+        "**Brain"
+      ]
+    }
+  },
+  {
+    "filename": "case0070_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0070_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0070_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0070_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "Hypertrophic Olivary Degeneration (HOD) secondary to stroke",
+      "other_possible_diagnoses": [
+        "Brainstem Glioma",
+        "Demyelinating Plaque (e.g., Multiple Sclerosis)",
+        "Cavernous Malformation (with hemorrhage/edema)",
+        ""
+      ]
+    }
+  },
+  {
+    "filename": "case0070_008.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0070_009.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0070_010.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0070_011.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0071_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Secondary Dystonia due to Congenital Porencephaly",
+      "other_possible_diagnoses": [
+        "Cerebral Palsy (Dystonic Type)",
+        "Post-stroke Dystonia (secondary to perinatal stroke)",
+        "Idiopathic Dystonia (e.g., genetic dystonia)",
+        ""
+      ]
+    }
+  },
+  {
+    "filename": "case0071_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0071_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0071_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0071_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0071_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0071_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0071_008.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0072_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0072_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0073_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0073_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0073_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0073_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Diffuse Axonal Injury (DAI)",
+      "other_possible_diagnoses": [
+        "Delayed Traumatic Intracerebral Hemorrhage/Contusion",
+        "Cerebral Fat Embolism Syndrome (FES)",
+        "Vertebral Artery Dissection with Brainstem Infarction",
+        "Post"
+      ]
+    }
+  },
+  {
+    "filename": "case0073_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Cerebral Fat Embolism Syndrome (CFES)**",
+      "other_possible_diagnoses": [
+        "**Diffuse Axonal Injury (DAI)**",
+        "**Acute Disseminated Encephalomyelitis (ADEM)**",
+        "**Hypoxic-Ischemic Encephalopathy (HIE)**",
+        "**"
+      ]
+    }
+  },
+  {
+    "filename": "case0074_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Wilson's Disease**",
+      "other_possible_diagnoses": [
+        "**Adult-onset Leigh Syndrome**",
+        "**Adrenoleukodystrophy (ALD)**",
+        "**Metachromatic Leukodystrophy (MLD)**",
+        "**Krabbe Disease (Globoid Cell Leukodyst"
+      ]
+    }
+  },
+  {
+    "filename": "case0074_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0075_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Infantile Neuroaxonal Dystrophy (INAD)",
+      "other_possible_diagnoses": [
+        "GM1 Gangliosidosis (Infantile form)",
+        "Sandhoff Disease (GM2 Gangliosidosis, Type II)",
+        "Early Infantile Epileptic Encephalopathy (e.g., West Syndrome)"
+      ]
+    }
+  },
+  {
+    "filename": "case0075_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Krabbe Disease (Globoid Cell Leukodystrophy)",
+      "other_possible_diagnoses": [
+        "Metachromatic Leukodystrophy (MLD)",
+        "Canavan Disease",
+        "Alexander Disease",
+        "Pelizaeus-Merzbacher Disease (PMD)"
+      ]
+    }
+  },
+  {
+    "filename": "case0075_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0075_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0075_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0075_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "Krabbe Disease (Globoid Cell Leukodystrophy)**",
+      "other_possible_diagnoses": [
+        "Tay-Sachs Disease (GM2 Gangliosidosis)",
+        "Metachromatic Leukodystrophy",
+        "Leigh Syndrome",
+        "Canavan Disease"
+      ]
+    }
+  },
+  {
+    "filename": "case0076_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Vertebrobasilar Dolichoectasia**",
+      "other_possible_diagnoses": [
+        "**Partially Thrombosed Aneurysm**",
+        "**Epidermoid Cyst**",
+        "**Arachnoid Cyst**",
+        "**Low-grade Brainstem Glioma (non-enhancing)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0076_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Cerebral Venous Thrombosis (CVT) / Dural Venous Sinus Thrombosis (DVST)**",
+      "other_possible_diagnoses": [
+        "**Arterial Thrombus (e.g., Basilar Artery Thrombosis)**",
+        "**Slow Flow in a Dural Sinus/Vein**"
+      ]
+    }
+  },
+  {
+    "filename": "case0076_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Creutzfeldt-Jakob Disease (CJD)**",
+      "other_possible_diagnoses": [
+        "**Status Epilepticus / Non-convulsive Status Epilepticus**",
+        "**Subacute Hypoxic-Ischemic Encephalopathy (Laminar Necrosis)**",
+        "**Mitochondrial Encephalopathy (e.g"
+      ]
+    }
+  },
+  {
+    "filename": "case0077_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Radiation Necrosis/Radiation-Induced Leukoencephalopathy",
+      "other_possible_diagnoses": [
+        "Secondary Malignancy (e.g., radiation-induced glioma)",
+        "Recurrence of Germinoma",
+        "Ischemic Stroke (due to radiation-induced vasculopathy)",
+        "Primary Brain Tumor (e"
+      ]
+    }
+  },
+  {
+    "filename": "case0078_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Vestibular Schwannoma (Acoustic Neuroma)",
+      "other_possible_diagnoses": [
+        "Meningioma",
+        "Epidermoid Cyst",
+        "Facial Nerve Schwannoma",
+        "Metastasis"
+      ]
+    }
+  },
+  {
+    "filename": "case0078_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0078_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0079_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0079_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0080_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0080_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Vitamin B12 Deficiency (Cobalamin Deficiency)**",
+      "other_possible_diagnoses": [
+        "**Methylmalonic Acidemia (Primary/Inborn Error)**",
+        "**Urea Cycle Disorder**",
+        "**Mitochondrial Disorder (e.g., Leigh Syndrome)**",
+        "**Propionic Acidemia**"
+      ]
+    }
+  },
+  {
+    "filename": "case0080_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Vitamin B12 Deficiency (Cobalamin Deficiency)**",
+      "other_possible_diagnoses": [
+        "**Methylmalonic Acidemia (Primary)**",
+        "**Propionic Acidemia**",
+        "**Urea Cycle Disorder**",
+        "**Mitochondrial Disease (e.g., Leigh Syndrome)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0080_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Severe Vitamin B12 Deficiency** (with neurological and metabolic complications)",
+      "other_possible_diagnoses": [
+        "**Primary Methylmalonic Acidemia**",
+        "**Urea Cycle Disorder**",
+        "**Propionic Acidemia**",
+        "**Mitochondrial Encephalopathy (e.g.,"
+      ]
+    }
+  },
+  {
+    "filename": "case0080_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0080_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Vitamin B12 Deficiency**",
+      "other_possible_diagnoses": [
+        "**Methylmalonic Acidemia (cbl type)**",
+        "**Propionic Acidemia**",
+        "**Urea Cycle Disorder**",
+        "**Mitochondrial Disorder (e.g., Leigh Syndrome)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0081_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0081_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0081_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Joubert Syndrome and Related Disorders (JSRD)",
+      "other_possible_diagnoses": [
+        "Dandy-Walker Malformation (DWM) / Dandy-Walker Complex",
+        "Pontocerebellar Hypoplasia (PCH)",
+        "Isolated Cerebellar Vermis Hypoplasia",
+        "Rhombencephal"
+      ]
+    }
+  },
+  {
+    "filename": "case0081_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0081_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "Joubert Syndrome",
+      "other_possible_diagnoses": [
+        "COACH Syndrome (Cerebellar vermis hypoplasia, Oligophrenia, Congenital ataxia, Hepatic fibrosis)",
+        "Meckel-Gruber Syndrome",
+        "Dandy-Walker Malformation",
+        "Pontocerebellar Hypoplasia"
+      ]
+    }
+  },
+  {
+    "filename": "case0081_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0081_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0082_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0082_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0082_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0082_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0082_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0082_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "Brain Abscess",
+      "other_possible_diagnoses": [
+        "Necrotic Glioblastoma Multiforme (GBM) or Metastasis",
+        "Tuberculoma",
+        "Fungal Abscess/Granuloma",
+        "Neurocysticercosis (Colloidal Vesicular Stage)"
+      ]
+    }
+  },
+  {
+    "filename": "case0082_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0083_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0084_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Ruptured Cerebral Aneurysm",
+      "other_possible_diagnoses": [
+        "Ruptured Arteriovenous Malformation (AVM)",
+        "Hypertensive Intracerebral Hemorrhage with Subarachnoid Extension",
+        "Hemorrhagic Brain Tumor",
+        "Cerebral Amyloid Angiopathy (CAA"
+      ]
+    }
+  },
+  {
+    "filename": "case0084_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0085_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0085_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0085_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Craniopharyngioma",
+      "other_possible_diagnoses": [
+        "Germinoma",
+        "Pilocytic Astrocytoma",
+        "Hypothalamic Glioma (e.g., Astrocytoma)",
+        "Suprasellar Meningioma"
+      ]
+    }
+  },
+  {
+    "filename": "case0085_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0086_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0086_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**PMM2-CDG (CDG-Ia) with cerebellar atrophy and acute stroke-like episode.**",
+      "other_possible_diagnoses": [
+        "**Other specific Congenital Disorder of Glycosylation (CDG) type (e.g., ALG1-CDG, DPAGT1-CDG)**",
+        "**Mitochond"
+      ]
+    }
+  },
+  {
+    "filename": "case0086_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Stroke-like episode in the context of Congenital Disorder of Glycosylation",
+      "other_possible_diagnoses": [
+        "Ischemic Stroke",
+        "Hemorrhagic Stroke",
+        "Transient Ischemic Attack (TIA)",
+        "Focal Seizure with Post-ictal (Todd's) Paralysis"
+      ]
+    }
+  },
+  {
+    "filename": "case0087_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0087_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0087_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0088_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Epidermoid Cyst**",
+      "other_possible_diagnoses": [
+        "**Abscess (Chronic/Indolent)**",
+        "**Lymphoma (e.g., Primary CNS Lymphoma or Extranodal Lymphoma)**",
+        "**Mucocele (Frontal Sinus)**",
+        "**"
+      ]
+    }
+  },
+  {
+    "filename": "case0088_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0088_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0088_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0089_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0089_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0090_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Pituitary Stalk Interruption Syndrome (PSIS)",
+      "other_possible_diagnoses": [
+        "Congenital Hypopituitarism",
+        "Craniopharyngioma",
+        "Hypothalamic Dysfunction/Tumor",
+        "Isolated Growth Hormone Deficiency (with co-existing central hypothyroidism)"
+      ]
+    }
+  },
+  {
+    "filename": "case0091_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0091_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0091_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0091_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0091_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0091_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0091_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "Primary Central Nervous System Lymphoma (PCNSL)",
+      "other_possible_diagnoses": [
+        "Glioblastoma (GBM)",
+        "Metastatic Brain Tumor",
+        "Brain Abscess",
+        "Tumefactive Demyelinating Lesion"
+      ]
+    }
+  },
+  {
+    "filename": "case0092_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0092_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0092_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0092_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0092_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0092_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0092_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0093_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Meningioma**",
+      "other_possible_diagnoses": [
+        "**Dural Metastasis**",
+        "**Solitary Fibrous Tumor/Hemangiopericytoma (SFT/HPC)**",
+        "**Dural Lymphoma**",
+        "**Dural Sarcoidosis**"
+      ]
+    }
+  },
+  {
+    "filename": "case0093_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0093_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Meningioma (fibrous or calcified subtype)**",
+      "other_possible_diagnoses": [
+        "**Primary Dural Lymphoma**",
+        "**Solitary Fibrous Tumor/Hemangiopericytoma (SFT/HPC)**",
+        "**Dural Metastasis (e.g., melanoma, hemorrhagic, or"
+      ]
+    }
+  },
+  {
+    "filename": "case0093_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0093_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "Meningioma",
+      "other_possible_diagnoses": [
+        "Dural Metastasis",
+        "Primary CNS Lymphoma",
+        "Solitary Fibrous Tumor/Hemangiopericytoma",
+        "Granulomatous Pachymeningitis (e.g., Sarcoidosis, Tuberculosis)"
+      ]
+    }
+  },
+  {
+    "filename": "case0093_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "Meningioma",
+      "other_possible_diagnoses": [
+        "Dural Metastasis",
+        "Hemangiopericytoma (Solitary Fibrous Tumor/Hemangiopericytoma)",
+        "Dural Lymphoma",
+        "Neurosarcoidosis (Dural involvement)"
+      ]
+    }
+  },
+  {
+    "filename": "case0093_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0093_008.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0093_009.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0094_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0094_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0094_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0094_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0094_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0094_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0095_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0095_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Meningocele/Encephalocele (Cephalocele)**",
+      "other_possible_diagnoses": [
+        "**Dermoid Cyst**",
+        "**Epidermoid Cyst**",
+        "**Lymphatic Malformation**",
+        "**Aplasia Cutis Congenita with underlying bony defect"
+      ]
+    }
+  },
+  {
+    "filename": "case0095_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0095_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0096_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Marchiafava-Bignami Disease (MBD)**",
+      "other_possible_diagnoses": [
+        "**Osmotic Demyelination Syndrome (Extrapontine Myelinolysis)**",
+        "**Acute Ischemic Stroke**",
+        "**Wernicke Encephalopathy**",
+        "**Acute Dis"
+      ]
+    }
+  },
+  {
+    "filename": "case0096_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0097_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0097_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0097_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Pilocytic Astrocytoma**",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0097_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0097_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0097_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0098_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Acute Necrotizing Encephalopathy (ANE)",
+      "other_possible_diagnoses": [
+        "Acute Disseminated Encephalomyelitis (ADEM)",
+        "Viral Encephalitis (e.g., specific types like Japanese Encephalitis, though less common in this demographic without travel history)",
+        "Wernicke Encephalopathy"
+      ]
+    }
+  },
+  {
+    "filename": "case0098_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0098_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Acute Necrotizing Encephalopathy (ANE)**",
+      "other_possible_diagnoses": [
+        "**Acute Disseminated Encephalomyelitis (ADEM)**",
+        "**Viral Encephalitis (e.g., Influenza-associated encephalopathy)**",
+        "**Mitochondrial Encephalopathy (e.g., MELAS-like"
+      ]
+    }
+  },
+  {
+    "filename": "case0098_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Acute Disseminated Encephalomyelitis (ADEM)",
+      "other_possible_diagnoses": [
+        "Multiple Sclerosis (MS) - Clinically Isolated Syndrome (CIS)",
+        "Acute Necrotizing Encephalopathy (ANE)",
+        "Viral Encephalitis (atypical presentation)",
+        "Autoimmune"
+      ]
+    }
+  },
+  {
+    "filename": "case0098_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0098_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Acute Necrotizing Encephalopathy (ANE)**",
+      "other_possible_diagnoses": [
+        "**Acute Disseminated Encephalomyelitis (ADEM)**",
+        "**Mitochondrial Encephalopathy (e.g., Leigh Syndrome)**",
+        "**Autoimmune Encephalitis (seronegative or atypical presentation)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0098_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "Acute Necrotizing Encephalopathy (ANE)",
+      "other_possible_diagnoses": [
+        "Acute Disseminated Encephalomyelitis (ADEM)",
+        "Mitochondrial Encephalopathy (e.g., Leigh Syndrome)",
+        "Autoimmune Encephalitis (e.g., anti-NMDAR, anti-LGI"
+      ]
+    }
+  },
+  {
+    "filename": "case0098_008.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0098_009.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0099_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0099_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0099_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0099_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0099_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0099_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0099_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0099_008.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0099_009.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0099_010.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0099_011.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Artery of Percheron Infarct**",
+      "other_possible_diagnoses": [
+        "**Wernicke Encephalopathy**",
+        "**Status Epilepticus**",
+        "**Osmotic Demyelination Syndrome (Extrapontine Myelinolysis)**",
+        "**Creutzfeldt-Jak"
+      ]
+    }
+  },
+  {
+    "filename": "case0100_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Germinoma (with syncytiotrophoblastic giant cells)",
+      "other_possible_diagnoses": [
+        "Choriocarcinoma",
+        "Mixed Germ Cell Tumor",
+        "Embryonal Carcinoma",
+        "Pure Germinoma"
+      ]
+    }
+  },
+  {
+    "filename": "case0100_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Germinoma (Pineal Region)**",
+      "other_possible_diagnoses": [
+        "**Choriocarcinoma (Pineal Region)**",
+        "**Mixed Germ Cell Tumor (Pineal Region)**",
+        "**Embryonal Carcinoma (Pineal Region)**",
+        "**Pineoblastoma**"
+      ]
+    }
+  },
+  {
+    "filename": "case0100_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0100_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0100_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0100_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0100_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0100_008.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0100_009.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0100_010.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0100_011.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0100_012.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0100_013.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0100_014.png",
+    "predictions": {
+      "most_likely_diagnosis": "Germinoma**",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0100_015.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0100_016.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0100_017.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0101_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0102_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0102_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0102_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Hemangioblastoma",
+      "other_possible_diagnoses": [
+        "Pilocytic Astrocytoma",
+        "Metastasis",
+        "Ganglioglioma",
+        "Desmoplastic Medulloblastoma"
+      ]
+    }
+  },
+  {
+    "filename": "case0102_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0102_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0102_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0102_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "Hemangioblastoma",
+      "other_possible_diagnoses": [
+        "Pilocytic Astrocytoma",
+        "Metastasis",
+        "Ganglioglioma",
+        "Pleomorphic Xanthoastrocytoma (PXA)"
+      ]
+    }
+  },
+  {
+    "filename": "case0102_008.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0102_009.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Hemangioblastoma**",
+      "other_possible_diagnoses": [
+        "**Pilocytic Astrocytoma**",
+        "**Cystic Metastasis** (e.g., from renal cell carcinoma, melanoma, lung cancer)",
+        "**Pleomorphic Xanthoastrocytoma (PXA)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0102_010.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0103_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Autoimmune Encephalitis",
+      "other_possible_diagnoses": [
+        "Acute Disseminated Encephalomyelitis (ADEM)",
+        "Neurosarcoidosis",
+        "Infectious Encephalitis (e.g., atypical viral, bacterial, fungal)",
+        "Primary CNS Lymphoma"
+      ]
+    }
+  },
+  {
+    "filename": "case0103_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Paraneoplastic Myelopathy/Encephalomyelitis**",
+      "other_possible_diagnoses": [
+        "**Osmotic Demyelination Syndrome (ODS)**",
+        "**Subacute Combined Degeneration (Vitamin B12 Deficiency)**",
+        "**Viral Myelitis/Encephalitis**",
+        ""
+      ]
+    }
+  },
+  {
+    "filename": "case0104_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0105_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0106_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0106_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0106_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Tuberculoma",
+      "other_possible_diagnoses": [
+        "Metastasis (e.g., from lung carcinoma)",
+        "Fungal Granuloma/Abscess",
+        "Cavernous Malformation",
+        "Chronic Pyogenic Abscess"
+      ]
+    }
+  },
+  {
+    "filename": "case0106_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Tuberculoma",
+      "other_possible_diagnoses": [
+        "Brain Abscess (Pyogenic)",
+        "Neurocysticercosis",
+        "Fungal Granuloma/Abscess",
+        "Metastatic Brain Tumor"
+      ]
+    }
+  },
+  {
+    "filename": "case0107_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0108_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0108_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0108_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0108_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Wernicke Encephalopathy**",
+      "other_possible_diagnoses": [
+        "**Creutzfeldt-Jakob Disease (CJD)**",
+        "**Bilateral Thalamic Infarcts/Stroke**",
+        "**Osmotic Demyelination Syndrome (Extrapontine Myelinolysis)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0109_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0110_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0110_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0111_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0112_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0112_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0113_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0113_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0113_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0114_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0114_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0115_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0115_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Pyogenic Brain Abscess",
+      "other_possible_diagnoses": [
+        "Necrotic Metastasis",
+        "High-grade Glioma (e.g., Glioblastoma)",
+        "Tuberculoma",
+        "Fungal Abscess (e.g., Nocardia)"
+      ]
+    }
+  },
+  {
+    "filename": "case0115_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0115_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0115_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0115_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0115_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "Pyogenic Brain Abscess",
+      "other_possible_diagnoses": [
+        "Necrotic Metastasis / High-Grade Glioma",
+        "Tuberculoma",
+        "Fungal Abscess (e.g., Nocardia, Aspergillus)",
+        "Toxoplasmosis"
+      ]
+    }
+  },
+  {
+    "filename": "case0116_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0116_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0116_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0116_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Radiation Necrosis**",
+      "other_possible_diagnoses": [
+        "**Recurrent Glioblastoma**",
+        "**Ischemic Stroke (Subacute Infarction)**",
+        "**Posterior Reversible Encephalopathy Syndrome (PRES)**",
+        "**Autoimmune/Inflammatory Encephalitis**"
+      ]
+    }
+  },
+  {
+    "filename": "case0117_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Hypertrophic Olivary Degeneration (HOD)",
+      "other_possible_diagnoses": [
+        "Brainstem Glioma (Low-grade astrocytoma)",
+        "Demyelinating Disease (e.g., Multiple Sclerosis plaque)",
+        "Brainstem Cavernoma with chronic hemorrhage/edema"
+      ]
+    }
+  },
+  {
+    "filename": "case0117_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0117_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0118_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0118_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Dengue-associated Cerebellitis**",
+      "other_possible_diagnoses": [
+        "**Dengue Encephalopathy**",
+        "**Acute Disseminated Encephalomyelitis (ADEM) secondary to Dengue**",
+        "**Intracranial Hemorrhage (e.g., cerebellar hemorrhage) due to severe Dengue"
+      ]
+    }
+  },
+  {
+    "filename": "case0119_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Pantothenate Kinase-Associated Neurodegeneration (PKAN)**",
+      "other_possible_diagnoses": [
+        "**Neuroferritinopathy**",
+        "**Fahr's Disease (Primary Familial Brain Calcification)**",
+        "**Mitochondrial Membrane Protein-Associated Neurodegeneration (MPAN)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0119_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Pantothenate Kinase-Associated Neurodegeneration (PKAN)",
+      "other_possible_diagnoses": [
+        "PLA2G6-associated neurodegeneration (PLAN)",
+        "Mitochondrial membrane protein-associated neurodegeneration (MPAN)",
+        "Beta-propeller protein-associated neurodegeneration (BPAN"
+      ]
+    }
+  },
+  {
+    "filename": "case0119_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Pantothenate Kinase-Associated Neurodegeneration (PKAN)",
+      "other_possible_diagnoses": [
+        "Beta-propeller Protein-Associated Neurodegeneration (BPAN)",
+        "Mitochondrial Membrane Protein-Associated Neurodegeneration (MPAN)",
+        "Neuroferritinopathy",
+        "Wilson'"
+      ]
+    }
+  },
+  {
+    "filename": "case0120_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0121_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0121_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0121_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Chiari Malformation Type I with Syringomyelia",
+      "other_possible_diagnoses": [
+        "Idiopathic Intracranial Hypertension (Pseudotumor Cerebri)",
+        "Posterior Fossa Tumor (e.g., Cerebellar Astrocytoma, Medulloblastoma)",
+        "Obstructive Hydrocephalus (e.g"
+      ]
+    }
+  },
+  {
+    "filename": "case0122_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Posterior Reversible Encephalopathy Syndrome (PRES)",
+      "other_possible_diagnoses": [
+        "Hypertensive Encephalopathy",
+        "Acute Disseminated Encephalomyelitis (ADEM)",
+        "Cerebral Vasculitis",
+        "Acute Ischemic Stroke (Multiple/Watershed Infarcts)"
+      ]
+    }
+  },
+  {
+    "filename": "case0122_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0123_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0123_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0124_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Mild Encephalitis/Encephalopathy with a Reversible Splenial Lesion (MERS) / Transient Lesion in the Splenium of the Corpus Callosum (TLSCC)",
+      "other_possible_diagnoses": [
+        "Acute Disseminated Encephalomyelitis (ADEM)",
+        "Viral Encephalitis (e.g., Influenza-associated encephalopathy"
+      ]
+    }
+  },
+  {
+    "filename": "case0124_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "** Mild Encephalopathy with Reversible Splenial Lesion (MERS) / Reversible Splenial Lesion Syndrome (RSLS)",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0124_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0125_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Acute Hepatic Encephalopathy with cerebral oedema",
+      "other_possible_diagnoses": [
+        "Status Epilepticus (Non-convulsive or post-ictal changes)",
+        "Posterior Reversible Encephalopathy Syndrome (PRES)",
+        "Hypoxic-Ischemic Encephalopathy",
+        "Acute Toxic/Metabolic"
+      ]
+    }
+  },
+  {
+    "filename": "case0125_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0125_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0126_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0126_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0127_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0127_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Wilson's disease**",
+      "other_possible_diagnoses": [
+        "**Manganese Intoxication**",
+        "**Multiple System Atrophy (MSA)**",
+        "**Progressive Supranuclear Palsy (PSP)**",
+        "**Neurodegeneration with Brain Iron Accumulation (NBIA)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0127_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Wilson's disease**",
+      "other_possible_diagnoses": [
+        "**Juvenile Parkinsonism/Early-onset Parkinson's disease**",
+        "**Neurodegeneration with Brain Iron Accumulation (NBIA), e.g., Pantothenate Kinase-Associated Neurodegeneration (PKAN)**",
+        "**M"
+      ]
+    }
+  },
+  {
+    "filename": "case0128_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0128_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0128_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0128_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0129_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Choroid Plexus Carcinoma (CPC)",
+      "other_possible_diagnoses": [
+        "Atypical Teratoid/Rhabdoid Tumor (AT/RT)",
+        "High-Grade Glioma (e.g., Glioblastoma)",
+        "Ependymoma",
+        "Supratentorial"
+      ]
+    }
+  },
+  {
+    "filename": "case0130_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0130_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0130_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0130_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0130_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0131_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0131_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0131_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0132_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Glioblastoma (GBM), WHO Grade IV**",
+      "other_possible_diagnoses": [
+        "**Primary CNS Lymphoma**",
+        "**Anaplastic Astrocytoma, WHO Grade III**",
+        "**Germinoma (Germ Cell Tumor)**",
+        "**Metastatic Carcinoma**"
+      ]
+    }
+  },
+  {
+    "filename": "case0132_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Diffuse Midline Glioma (DMG H3 K27-altered)",
+      "other_possible_diagnoses": [
+        "Germinoma",
+        "Primary CNS Lymphoma",
+        "Low-grade Thalamic Glioma (e.g., Diffuse Astrocytoma, WHO Grade 2)"
+      ]
+    }
+  },
+  {
+    "filename": "case0132_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0132_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0132_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0132_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0132_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0132_008.png",
+    "predictions": {
+      "most_likely_diagnosis": "Glioblastoma (GBM)",
+      "other_possible_diagnoses": [
+        "Anaplastic Astrocytoma (WHO Grade III Astrocytoma)",
+        "Primary CNS Lymphoma",
+        "Germinoma",
+        "Metastasis"
+      ]
+    }
+  },
+  {
+    "filename": "case0132_009.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0133_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0133_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Multiple System Atrophy (MSA)",
+      "other_possible_diagnoses": [
+        "Parkinson's Disease (PD)",
+        "Progressive Supranuclear Palsy (PSP)",
+        "Spinocerebellar Ataxia (SCA)",
+        "Lewy Body Dementia (LBD)"
+      ]
+    }
+  },
+  {
+    "filename": "case0133_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0134_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Todd's paralysis (Post-ictal paresis/aphasia)**",
+      "other_possible_diagnoses": [
+        "**Acute Ischemic Stroke (with excellent collateral circulation or very early presentation)**",
+        "**Transient Ischemic Attack (TIA)**",
+        "**Complicated Migraine (Migraine with aura)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0135_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0135_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Paraneoplastic Neurological Syndrome",
+      "other_possible_diagnoses": [
+        "Primary CNS Lymphoma",
+        "CNS Vasculitis",
+        "Autoimmune Encephalitis",
+        "Metastatic Brain Disease (with inflammatory component)"
+      ]
+    }
+  },
+  {
+    "filename": "case0135_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Paraneoplastic Neurological Syndrome",
+      "other_possible_diagnoses": [
+        "Primary CNS Lymphoma",
+        "Metastatic Brain Disease",
+        "Autoimmune Encephalitis (non-paraneoplastic)",
+        "Central Nervous System Vasculitis"
+      ]
+    }
+  },
+  {
+    "filename": "case0135_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Primary CNS Lymphoma",
+      "other_possible_diagnoses": [
+        "Paraneoplastic Neurological Syndrome",
+        "Metastatic Brain Disease",
+        "Autoimmune Encephalitis/Vasculitis",
+        "Glioblastoma Multiforme"
+      ]
+    }
+  },
+  {
+    "filename": "case0135_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0135_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "Paraneoplastic Brainstem Encephalitis",
+      "other_possible_diagnoses": [
+        "Primary Angiitis of the CNS (PACNS) / CNS Vasculitis",
+        "CNS Lymphoma (Primary or Secondary)",
+        "Infectious Encephalitis (e.g., Tuberculosis, Fungal, or atypical viral)"
+      ]
+    }
+  },
+  {
+    "filename": "case0136_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Neuromyelitis Optica Spectrum Disorder (NMOSD)",
+      "other_possible_diagnoses": [
+        "Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease (MOGAD)",
+        "Neurosarcoidosis",
+        "Acute Disseminated Encephalomyelitis (ADEM)",
+        "Primary CNS Lymphoma"
+      ]
+    }
+  },
+  {
+    "filename": "case0136_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease (MOGAD)",
+      "other_possible_diagnoses": [
+        "Neuromyelitis Optica Spectrum Disorder (NMOSD)",
+        "Sarcoidosis",
+        "Multiple Sclerosis (MS)",
+        "Neoplastic/Infiltrative Process ("
+      ]
+    }
+  },
+  {
+    "filename": "case0136_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0136_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0136_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "Primary CNS Lymphoma",
+      "other_possible_diagnoses": [
+        "Tumefactive Demyelinating Lesions (e.g., atypical MS, Marburg variant)",
+        "CNS Sarcoidosis",
+        "Multifocal High-Grade Glioma",
+        "CNS Infection (e.g., Nocard"
+      ]
+    }
+  },
+  {
+    "filename": "case0137_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0137_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0137_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Hydatid Cyst (Echinococcosis)**",
+      "other_possible_diagnoses": [
+        "**Neurocysticercosis (Vesicular Stage)**",
+        "**Giant Dilated Perivascular Spaces (Virchow-Robin Spaces)**",
+        "**Multiple Neuroglial Cysts / Ependymal Cysts**"
+      ]
+    }
+  },
+  {
+    "filename": "case0137_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Giant tumefactive perivascular spaces",
+      "other_possible_diagnoses": [
+        "Neuroglial cyst",
+        "Arachnoid cyst",
+        "Chronic non-enhancing low-grade glioma (e.g., diffuse astrocytoma WHO grade II)",
+        "Hydatid cyst (Echinococcosis)"
+      ]
+    }
+  },
+  {
+    "filename": "case0137_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "Giant tumefactive perivascular spaces",
+      "other_possible_diagnoses": [
+        "Neuroglial cyst (or Enterogenous cyst)",
+        "Arachnoid cyst (intra-axial variant)",
+        "Low-grade cystic pilocytic astrocytoma (rare non-enhancing variant)",
+        "Chronic pore"
+      ]
+    }
+  },
+  {
+    "filename": "case0138_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0139_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Osmotic Demyelination Syndrome (ODS) / Central Pontine Myelinolysis (CPM)",
+      "other_possible_diagnoses": [
+        "Wernicke Encephalopathy",
+        "Hepatic Encephalopathy",
+        "Subdural Hematoma",
+        "Severe Alcohol Withdrawal Syndrome (including Delirium Tremens)"
+      ]
+    }
+  },
+  {
+    "filename": "case0139_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Osmotic Demyelination Syndrome (ODS) / Central Pontine Myelinolysis (CPM)",
+      "other_possible_diagnoses": [
+        "Wernicke Encephalopathy",
+        "Hepatic Encephalopathy",
+        "Subdural Hematoma",
+        "Severe Alcohol Withdrawal Syndrome (e.g., Delirium Tremens, non-convulsive status epilepticus)"
+      ]
+    }
+  },
+  {
+    "filename": "case0140_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0141_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Dysembryoplastic Neuroepithelial Tumor (DNET)",
+      "other_possible_diagnoses": [
+        "Low-grade glioma (e.g., IDH-mutant astrocytoma or oligodendroglioma, WHO grade 2)",
+        "Focal Cortical Dysplasia (FCD)",
+        "Gangliogli"
+      ]
+    }
+  },
+  {
+    "filename": "case0141_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Dysembryoplastic Neuroepithelial Tumor (DNET)",
+      "other_possible_diagnoses": [
+        "Focal Cortical Dysplasia (FCD)",
+        "Ganglioglioma",
+        "Low-grade Astrocytoma (WHO grade II)",
+        "Neuroglial Cyst with surrounding gliosis"
+      ]
+    }
+  },
+  {
+    "filename": "case0141_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Dysembryoplastic Neuroepithelial Tumor (DNET)",
+      "other_possible_diagnoses": [
+        "Focal Cortical Dysplasia (FCD)",
+        "Ganglioglioma",
+        "Low-grade Astrocytoma (WHO Grade II)",
+        "Pleomorphic Xanthoastrocytoma (PX"
+      ]
+    }
+  },
+  {
+    "filename": "case0141_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Dysembryoplastic Neuroepithelial Tumor (DNET)",
+      "other_possible_diagnoses": [
+        "Focal Cortical Dysplasia (FCD)",
+        "Ganglioglioma",
+        "Diffuse Low-Grade Glioma (e.g., Astrocytoma, IDH-mutant)"
+      ]
+    }
+  },
+  {
+    "filename": "case0142_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Pilocytic Astrocytoma**",
+      "other_possible_diagnoses": [
+        "**Ependymoma**",
+        "**Craniopharyngioma**",
+        "**Tectal Glioma** (often a low-grade astrocytoma, like PA)",
+        "**Gangliogli"
+      ]
+    }
+  },
+  {
+    "filename": "case0142_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0142_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0143_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Foreign Body Granuloma**",
+      "other_possible_diagnoses": [
+        "**Cavernous Malformation**",
+        "**Hemorrhagic Metastasis**",
+        "**High-Grade Glioma (e.g., Glioblastoma Multiforme)**",
+        "**Arteriovenous Malformation ("
+      ]
+    }
+  },
+  {
+    "filename": "case0143_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Brain Abscess",
+      "other_possible_diagnoses": [
+        "High-grade Glioma (e.g., Glioblastoma Multiforme)",
+        "Metastatic Brain Tumor",
+        "Tuberculoma",
+        "Epidermoid Cyst"
+      ]
+    }
+  },
+  {
+    "filename": "case0143_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0144_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0144_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0145_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Posterior Reversible Encephalopathy Syndrome (PRES) with Intracerebral Hemorrhage",
+      "other_possible_diagnoses": [
+        "Hypertensive Intracerebral Hemorrhage",
+        "Cerebral Venous Sinus Thrombosis (CVST) with Hemorrhage",
+        "Ruptured Arteriovenous Malformation (AV"
+      ]
+    }
+  },
+  {
+    "filename": "case0146_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Acute Necrotizing Encephalopathy (ANE) secondary to COVID-19**",
+      "other_possible_diagnoses": [
+        "**Acute Disseminated Encephalomyelitis (ADEM)**",
+        "**COVID-19 Associated Encephalitis (non-ANE type)**",
+        "**Wernicke Encephalopathy**"
+      ]
+    }
+  },
+  {
+    "filename": "case0146_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0146_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0147_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0148_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Pituitary Macroadenoma",
+      "other_possible_diagnoses": [
+        "Craniopharyngioma",
+        "Sellar/Suprasellar Meningioma",
+        "Hypophysitis",
+        "Rathke's Cleft Cyst"
+      ]
+    }
+  },
+  {
+    "filename": "case0148_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0149_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Hemangioblastoma**",
+      "other_possible_diagnoses": [
+        "**Pilocytic Astrocytoma**",
+        "**Pleomorphic Xanthoastrocytoma (PXA)**",
+        "**Metastatic Cystic Lesion (e.g., Renal Cell Carcinoma, Melanoma)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0149_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Neurocysticercosis (Vesicular stage)",
+      "other_possible_diagnoses": [
+        "Pilocytic Astrocytoma",
+        "Pleomorphic Xanthoastrocytoma (PXA)",
+        "Ganglioglioma",
+        "Hydatid Cyst (Echinococcosis)"
+      ]
+    }
+  },
+  {
+    "filename": "case0149_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0149_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0149_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0149_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0150_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0150_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Hyperglycemia-induced Hemichorea-Hemiballism (Diabetic Striatopathy)",
+      "other_possible_diagnoses": [
+        "Ischemic Stroke",
+        "Hemorrhagic Stroke",
+        "Basal Ganglia Tumor",
+        "Neurodegenerative disorder (e.g., Huntington's disease, though"
+      ]
+    }
+  },
+  {
+    "filename": "case0150_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0150_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0151_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0151_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0151_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0151_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Fahr's Disease (Primary Familial Brain Calcification)",
+      "other_possible_diagnoses": [
+        "Hypoparathyroidism",
+        "Idiopathic Basal Ganglia Calcification",
+        "Carbon Monoxide Poisoning Sequelae",
+        "Mitochondrial Encephalopathy"
+      ]
+    }
+  },
+  {
+    "filename": "case0151_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Primary Familial Brain Calcification (Fahr's Disease/Syndrome)**",
+      "other_possible_diagnoses": [
+        "**Hypoparathyroidism/Pseudohypoparathyroidism**",
+        "**Post-ischemic/Post-hemorrhagic calcification**",
+        "**Chronic infectious granuloma/sequelae (e"
+      ]
+    }
+  },
+  {
+    "filename": "case0151_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0151_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0152_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Multiple Sclerosis (MS)",
+      "other_possible_diagnoses": [
+        "Acute Disseminated Encephalomyelitis (ADEM)",
+        "Neuromyelitis Optica Spectrum Disorder (NMOSD)",
+        "Brain Abscess",
+        "High-Grade Glioma (e.g., Glioblastoma Multiforme)"
+      ]
+    }
+  },
+  {
+    "filename": "case0153_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0153_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Spinocerebellar Ataxia (SCA)",
+      "other_possible_diagnoses": [
+        "Multiple System Atrophy (MSA)",
+        "Progressive Supranuclear Palsy (PSP)",
+        "Alzheimer's Disease (atypical presentation or mixed dementia)",
+        "Corticobasal Syndrome (CBS"
+      ]
+    }
+  },
+  {
+    "filename": "case0154_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0154_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0155_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0155_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0156_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0156_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0156_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0156_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0157_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0157_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0157_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0158_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0158_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0158_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0158_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0158_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0159_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Pantothenate Kinase-Associated Neurodegeneration (PKAN)**",
+      "other_possible_diagnoses": [
+        "**Idiopathic Basal Ganglia Calcification (Fahr's Disease / Primary Familial Brain Calcification - PFBC)**",
+        "**PLA2G6-associated neurodegeneration (PLAN)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0159_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Pantothenate Kinase-Associated Neurodegeneration (PKAN)**",
+      "other_possible_diagnoses": [
+        "**Neuroferritinopathy**",
+        "**Aceruloplasminemia**",
+        "**Idiopathic Basal Ganglia Calcification (Fahr's Disease/Syndrome)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0160_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0160_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0160_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0161_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0161_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0161_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0161_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0161_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0162_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0162_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "** Acute Necrotizing Encephalopathy (ANE) secondary to H1N1 infection",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0162_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0163_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0163_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0163_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0164_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0164_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0164_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0164_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0164_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0165_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0166_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0166_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0166_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Glioblastoma (GBM)**",
+      "other_possible_diagnoses": [
+        "**Metastatic Brain Tumor**",
+        "**Brain Abscess**",
+        "**Primary CNS Lymphoma**",
+        "**Tumefactive Demyelinating Lesion**"
+      ]
+    }
+  },
+  {
+    "filename": "case0167_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0168_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Acute Necrotizing Encephalopathy (ANE) associated with COVID-19**",
+      "other_possible_diagnoses": [
+        "**Acute Disseminated Encephalomyelitis (ADEM)**",
+        "**Hypoxic-Ischemic Encephalopathy (HIE)**",
+        "**Autoimmune Encephalitis (e.g., Limbic Encephalitis)**",
+        "**Status Epilepticus (Non-convulsive or Post-ictal changes)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0169_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Methanol poisoning",
+      "other_possible_diagnoses": [
+        "Ethylene Glycol poisoning",
+        "Carbon Monoxide poisoning",
+        "Hypoxic-Ischemic Encephalopathy",
+        "Severe Hypoglycemia"
+      ]
+    }
+  },
+  {
+    "filename": "case0170_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0170_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0170_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Subdural Hygroma",
+      "other_possible_diagnoses": [
+        "Arachnoid Cyst",
+        "Porencephalic Cyst (post-traumatic)",
+        "Neuroglial Cyst",
+        "Giant Perivascular Space (Dilated Virchow-Robin Space)"
+      ]
+    }
+  },
+  {
+    "filename": "case0171_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0172_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0173_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Non-ketotic hyperglycemia-induced hemichorea-hemiballism (or Hyperglycemic Chorea/Diabetic Striatopathy)**",
+      "other_possible_diagnoses": [
+        "**Subacute Hemorrhagic Stroke**",
+        "**Ischemic Stroke (Lacunar Infarct)**",
+        "**Manganese Toxicity**"
+      ]
+    }
+  },
+  {
+    "filename": "case0173_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Non-ketotic Hyperglycemic Hemichorea-Hemiballism",
+      "other_possible_diagnoses": [
+        "Ischemic Stroke (e.g., lacunar infarct in basal ganglia/subthalamic nucleus)",
+        "Subacute Hemorrhagic Stroke",
+        "Drug-induced Chorea",
+        "Wilson"
+      ]
+    }
+  },
+  {
+    "filename": "case0174_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0174_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0174_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0174_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0174_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0175_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0175_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0175_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0176_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0176_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0176_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Herpes Simplex Encephalitis (HSE)",
+      "other_possible_diagnoses": [
+        "Low Grade Glioma",
+        "Sub-acute Infarction",
+        "Autoimmune Encephalitis",
+        "Post-ictal changes / Status Epilepticus related changes"
+      ]
+    }
+  },
+  {
+    "filename": "case0176_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Herpes Simplex Encephalitis (HSE)",
+      "other_possible_diagnoses": [
+        "Other Viral Encephalitis (e.g., Arbovirus, VZV, Enterovirus)",
+        "Bacterial Meningoencephalitis/Brain Abscess",
+        "Autoimmune Encephalitis (e.g., Anti-NMDA receptor encephalitis,"
+      ]
+    }
+  },
+  {
+    "filename": "case0176_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "Herpes Simplex Encephalitis",
+      "other_possible_diagnoses": [
+        "Acute Necrotizing Encephalopathy",
+        "Other Viral Encephalitis (e.g., Varicella Zoster Encephalitis)",
+        "Bacterial Meningoencephalitis/Abscess",
+        "Cerebral Venous Sinus Thrombosis"
+      ]
+    }
+  },
+  {
+    "filename": "case0177_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Focal Area of Signal Intensity (FASI) / Unidentified Bright Object (UBO) related to Neurofibromatosis type 1**",
+      "other_possible_diagnoses": [
+        "**Low-grade glioma (e.g., pilocytic astrocytoma)**",
+        "**Hamartoma**",
+        "**Is"
+      ]
+    }
+  },
+  {
+    "filename": "case0177_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0177_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0177_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0178_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0178_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0178_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0179_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Tuberculoma**",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0179_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0179_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0180_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0181_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Cerebrotendinous Xanthomatosis (CTX)**",
+      "other_possible_diagnoses": [
+        "**Fahr's Disease (Idiopathic Basal Ganglia Calcification)**",
+        "**Hypoparathyroidism/Pseudohypoparathyroidism**",
+        "**Mitochondrial Disorder**",
+        ""
+      ]
+    }
+  },
+  {
+    "filename": "case0182_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0182_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0183_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0183_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Brain Metastasis (from breast cancer)",
+      "other_possible_diagnoses": [
+        "Radiation Necrosis",
+        "Primary Brain Tumor (e.g., Glioblastoma)",
+        "Meningioma",
+        "Brain Abscess"
+      ]
+    }
+  },
+  {
+    "filename": "case0183_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Brain Metastasis",
+      "other_possible_diagnoses": [
+        "Radiation Necrosis",
+        "Primary Brain Tumor (e.g., Glioblastoma)",
+        "Meningioma",
+        "Leptomeningeal Carcinomatosis"
+      ]
+    }
+  },
+  {
+    "filename": "case0184_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0184_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0184_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0184_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0184_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0184_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Glioblastoma (or Anaplastic Astrocytoma)**",
+      "other_possible_diagnoses": [
+        "**Anaplastic Oligodendroglioma**",
+        "**Anaplastic Pleomorphic Xanthoastrocytoma (PXA)**",
+        "**Primary CNS Lymphoma**",
+        "**High"
+      ]
+    }
+  },
+  {
+    "filename": "case0185_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0185_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0185_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0185_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0185_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0185_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Brain Abscess**",
+      "other_possible_diagnoses": [
+        "**Tuberculoma**",
+        "**Epidermoid Cyst (especially if ruptured/inflamed)**",
+        "**High-grade Glioma (e.g., Anaplastic Astrocytoma, Glioblastoma)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0185_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Chronic Organized Hematoma**",
+      "other_possible_diagnoses": [
+        "**Brain Abscess**",
+        "**Hemorrhagic High-Grade Glioma (e.g., Glioblastoma)**",
+        "**Epidermoid Cyst (with atypical features or hemorrhage)**",
+        "**Cavernous"
+      ]
+    }
+  },
+  {
+    "filename": "case0185_008.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Brain Abscess (Bacterial)**",
+      "other_possible_diagnoses": [
+        "**High-grade glioma** (e.g., Anaplastic Astrocytoma, Glioblastoma)",
+        "**Tuberculoma**",
+        "**Fungal Abscess**",
+        "**Metastasis"
+      ]
+    }
+  },
+  {
+    "filename": "case0186_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Mucocele**",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0187_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0187_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Autosomal Recessive Spastic Ataxia of Charlevoix-Saguenay (ARSACS)**",
+      "other_possible_diagnoses": [
+        "**Friedreich's Ataxia (FA)**",
+        "**Ataxia with Oculomotor Apraxia Type 1 (AOA1)**",
+        "**Mitochondrial At"
+      ]
+    }
+  },
+  {
+    "filename": "case0187_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0188_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Acute Disseminated Encephalomyelitis (ADEM)**",
+      "other_possible_diagnoses": [
+        "Tumefactive Demyelinating Lesion (TDL)",
+        "Brain Abscess",
+        "High-Grade Glioma (e.g., Glioblastoma)",
+        "Primary CNS Lymphoma"
+      ]
+    }
+  },
+  {
+    "filename": "case0188_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "High-Grade Glioma (e.g., Glioblastoma)",
+      "other_possible_diagnoses": [
+        "Atypical Teratoid/Rhabdoid Tumor (AT/RT)",
+        "Primitive Neuroectodermal Tumor (PNET) / Embryonal Tumor, NOS",
+        "Brain Abscess"
+      ]
+    }
+  },
+  {
+    "filename": "case0188_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0188_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0188_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0188_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0189_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0189_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0189_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0189_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0189_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0189_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Actinomycosis**",
+      "other_possible_diagnoses": [
+        "**Nocardiosis**",
+        "**Tuberculoma**",
+        "**Fungal Granuloma/Abscess (e.g., Aspergilloma)**",
+        "**Meningioma (Atypical/Inflammatory"
+      ]
+    }
+  },
+  {
+    "filename": "case0189_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0189_008.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0190_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0190_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0190_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Canavan Disease**",
+      "other_possible_diagnoses": [
+        "**Alexander Disease**",
+        "**Megalencephalic Leukoencephalopathy with Subcortical Cysts (MLC)**",
+        "**Metachromatic Leukodystrophy (MLD)**",
+        "**Glutaric Aciduria Type"
+      ]
+    }
+  },
+  {
+    "filename": "case0190_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0191_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0191_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0191_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0191_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0191_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0191_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0191_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0192_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0192_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Sj\u00f6gren's syndrome with CNS involvement (granulomatous pachymeningitis)",
+      "other_possible_diagnoses": [
+        "Neurosarcoidosis",
+        "IgG4-related pachymeningitis",
+        "Tuberculous pachymeningitis",
+        "Granulomatosis with polyangiitis (GPA)"
+      ]
+    }
+  },
+  {
+    "filename": "case0193_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0194_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0194_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Malignant Peripheral Nerve Sheath Tumor (MPNST)",
+      "other_possible_diagnoses": [
+        "Plexiform Neurofibroma",
+        "High-grade Glioma (e.g., Anaplastic Astrocytoma or Glioblastoma)",
+        "Atypical or Anaplastic Meningioma"
+      ]
+    }
+  },
+  {
+    "filename": "case0194_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Glioblastoma (WHO Grade IV)",
+      "other_possible_diagnoses": [
+        "Anaplastic Astrocytoma (WHO Grade III)",
+        "Pilocytic Astrocytoma (WHO Grade I)",
+        "Malignant Peripheral Nerve Sheath Tumor (MPNST)",
+        "Diffuse Astroc"
+      ]
+    }
+  },
+  {
+    "filename": "case0194_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0195_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0195_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0196_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Methanol Poisoning**",
+      "other_possible_diagnoses": [
+        "**Marchiafava-Bignami Disease (MBD)**",
+        "**Ethylene Glycol Poisoning**",
+        "**Osmotic Demyelination Syndrome (Extrapontine Myelinolysis)**",
+        "**Severe Alcoholic"
+      ]
+    }
+  },
+  {
+    "filename": "case0197_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0197_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0197_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0198_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0198_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0198_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0198_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0198_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0198_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0198_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Cavernous Malformation (Cavernoma)**",
+      "other_possible_diagnoses": [
+        "**Recurrent Medulloblastoma (with hemorrhage)**",
+        "**Radiation-induced Neoplasm (e.g., high-grade glioma with hemorrhage)**",
+        "**Arteriovenous Malformation (AVM) with hemorrhage**"
+      ]
+    }
+  },
+  {
+    "filename": "case0199_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0200_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0201_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0201_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Cyst of the Velum Interpositum",
+      "other_possible_diagnoses": [
+        "Arachnoid Cyst (e.g., quadrigeminal cistern)",
+        "Pineal Cyst (large)",
+        "Neuroglial Cyst",
+        "Colloid Cyst (atypical presentation/location)"
+      ]
+    }
+  },
+  {
+    "filename": "case0202_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0202_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Brain Metastasis**",
+      "other_possible_diagnoses": [
+        "**Primary Brain Tumor (e.g., Glioblastoma)**",
+        "**Brain Abscess**",
+        "**Subacute Ischemic Stroke**",
+        "**Demyelinating Lesion (e.g., Atypical Multiple Sclerosis"
+      ]
+    }
+  },
+  {
+    "filename": "case0203_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0203_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Arteriovenous Malformation (AVM)**",
+      "other_possible_diagnoses": [
+        "Cavernous Malformation (Cavernoma)",
+        "Ganglioglioma",
+        "Pilocytic Astrocytoma",
+        "Dysembryoplastic Neuroepithelial Tumor (DNET)"
+      ]
+    }
+  },
+  {
+    "filename": "case0203_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0204_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0204_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0205_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Hydatid cyst (Echinococcosis)**",
+      "other_possible_diagnoses": [
+        "**Neurocysticercosis (Racemose form)**",
+        "**Cystic Neoplasm (e.g., Pilocytic Astrocytoma, Ganglioglioma)**",
+        "**Brain Abscess (Chronic/Atypical"
+      ]
+    }
+  },
+  {
+    "filename": "case0205_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0206_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0207_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Choroidal Metastasis",
+      "other_possible_diagnoses": [
+        "Choroidal Melanoma (Amelanotic or Necrotic)",
+        "Posterior Scleritis",
+        "Choroidal Hemangioma",
+        "Idiopathic Orbital Inflammation (Inflammatory Pseudotumor)"
+      ]
+    }
+  },
+  {
+    "filename": "case0208_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0209_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0209_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0209_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0209_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0210_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0211_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Central Nervous System (CNS) Leukemia / Leukemic Meningitis**",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0211_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0211_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Leukemic Meningitis (or CNS infiltration by Acute Myeloid Leukemia)",
+      "other_possible_diagnoses": [
+        "Bacterial Meningitis",
+        "Fungal Meningitis",
+        "Viral Meningitis/Encephalitis",
+        "Drug-induced Aseptic Meningitis"
+      ]
+    }
+  },
+  {
+    "filename": "case0211_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0211_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0212_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Metachromatic Leukodystrophy (MLD)",
+      "other_possible_diagnoses": [
+        "Krabbe Disease (Globoid Cell Leukodystrophy)",
+        "Pelizaeus-Merzbacher Disease (PMD)",
+        "Canavan Disease",
+        "Aicardi-Gouti\u00e8res Syndrome"
+      ]
+    }
+  },
+  {
+    "filename": "case0212_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Pelizaeus-Merzbacher Disease (PMD)**",
+      "other_possible_diagnoses": [
+        "**Krabbe Disease (Globoid Cell Leukodystrophy)**",
+        "**Metachromatic Leukodystrophy (MLD)**",
+        "**Canavan Disease**",
+        "**Alexander Disease**"
+      ]
+    }
+  },
+  {
+    "filename": "case0212_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Leigh Syndrome**",
+      "other_possible_diagnoses": [
+        "**Other Mitochondrial Disorders (e.g., Pyruvate Dehydrogenase Complex Deficiency)**",
+        "**Glutaric Aciduria Type 1**",
+        "**Methylmalonic Acidemia**",
+        "**Kernicterus (Chronic Bilir"
+      ]
+    }
+  },
+  {
+    "filename": "case0212_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Leigh Syndrome (Subacute Necrotizing Encephalomyelopathy)",
+      "other_possible_diagnoses": [
+        "Canavan Disease",
+        "Pyruvate Dehydrogenase Complex Deficiency (PDCD)",
+        "Maple Syrup Urine Disease (MSUD) (chronic/treated form)",
+        "Glutaric Aciduria Type"
+      ]
+    }
+  },
+  {
+    "filename": "case0213_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0213_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0213_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0214_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0214_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0214_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0214_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0214_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0214_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0215_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Migraine with Aura (with transient diffusion restriction/migraine infarction)**",
+      "other_possible_diagnoses": [
+        "**Acute Ischemic Stroke**",
+        "**Seizure (Todd's Paralysis with post-ictal cytotoxic edema)**",
+        "**Reversible Cerebral Vasoconstriction Syndrome (RCVS) with infarction**"
+      ]
+    }
+  },
+  {
+    "filename": "case0215_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0215_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0216_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0216_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Schizencephaly (bilateral open-lip)**",
+      "other_possible_diagnoses": [
+        "**Porencephaly**",
+        "**Polymicrogyria**",
+        "**Focal Cortical Dysplasia**",
+        "**Agenesis of the Septum Pellucidum"
+      ]
+    }
+  },
+  {
+    "filename": "case0217_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0217_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Megalencephalic Leukoencephalopathy with Subcortical Cysts (MLC)**",
+      "other_possible_diagnoses": [
+        "**Canavan Disease**",
+        "**Glutaric Aciduria Type 1 (GA1)**",
+        "**Alexander Disease**",
+        "**Hydrocephalus (with"
+      ]
+    }
+  },
+  {
+    "filename": "case0217_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0218_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0219_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0219_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0219_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0219_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0219_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0219_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Iatrogenic Intracranial Fat Migration with Chemical Arachnoiditis**",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0219_007.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0219_008.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0220_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0220_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0221_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0221_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Solitary Fibrous Tumor/Hemangiopericytoma (SFT-HPC)",
+      "other_possible_diagnoses": [
+        "Atypical/Anaplastic Meningioma",
+        "Metastasis (especially from a hypervascular primary like renal cell carcinoma, thyroid, or melanoma)",
+        "Dural Arteriovenous"
+      ]
+    }
+  },
+  {
+    "filename": "case0221_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Glioblastoma (GBM)**",
+      "other_possible_diagnoses": [
+        "**Brain Metastasis**",
+        "**Primary CNS Lymphoma**",
+        "**Brain Abscess**",
+        "**Tumefactive Demyelinating Lesion (e.g., Tumefactive MS)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0222_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Hypoglycemic Encephalopathy",
+      "other_possible_diagnoses": [
+        "Hypoxic-Ischemic Encephalopathy",
+        "Prolonged Status Epilepticus",
+        "Acute Toxic Encephalopathy (e.g., from other unknown toxins or direct neurotoxicity of ingested substances)",
+        "Acute Necrot"
+      ]
+    }
+  },
+  {
+    "filename": "case0222_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0222_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0222_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Hypoglycemic Encephalopathy",
+      "other_possible_diagnoses": [
+        "Hypoxic-Ischemic Encephalopathy",
+        "Status Epilepticus",
+        "Toxic Encephalopathy (e.g., Carbon Monoxide, Cyanide)",
+        "Acute Necrotizing Encephalopathy"
+      ]
+    }
+  },
+  {
+    "filename": "case0222_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "Hypoglycemic Encephalopathy",
+      "other_possible_diagnoses": [
+        "Post-anoxic encephalopathy (e.g., due to cardiac arrest or other severe hypoxia)",
+        "Status Epilepticus (prolonged/refractory)",
+        "Toxic Encephalopathy (e.g., carbon monoxide poisoning, severe methanol"
+      ]
+    }
+  },
+  {
+    "filename": "case0222_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "Hypoglycemic Encephalopathy",
+      "other_possible_diagnoses": [
+        "Hypoxic-Ischemic Encephalopathy",
+        "Status Epilepticus",
+        "Toxic Encephalopathy (e.g., Carbon Monoxide Poisoning)",
+        "Mitochondrial Encephalopathy"
+      ]
+    }
+  },
+  {
+    "filename": "case0223_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Spinocerebellar Ataxia (SCA)**",
+      "other_possible_diagnoses": [
+        "**Multiple System Atrophy, Cerebellar type (MSA-C)**",
+        "**Frontotemporal Dementia (FTD) with Ataxia (e.g., C9orf72-related)**",
+        "**Creutzfeldt-Jak"
+      ]
+    }
+  },
+  {
+    "filename": "case0223_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0224_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0224_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Optic Pathway Glioma (Pilocytic Astrocytoma)",
+      "other_possible_diagnoses": [
+        "Craniopharyngioma",
+        "Germinoma",
+        "Langerhans Cell Histiocytosis",
+        "Hypothalamic Hamartoma"
+      ]
+    }
+  },
+  {
+    "filename": "case0225_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0225_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Acute Disseminated Encephalomyelitis (ADEM)",
+      "other_possible_diagnoses": [
+        "Multiple Sclerosis (MS)",
+        "Neuromyelitis Optica Spectrum Disorder (NMOSD)",
+        "Acute Hemorrhagic Leukoencephalitis (AHLE)",
+        "Viral Encephalitis"
+      ]
+    }
+  },
+  {
+    "filename": "case0225_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Acute Disseminated Encephalomyelitis (ADEM)**",
+      "other_possible_diagnoses": [
+        "Multiple Sclerosis (MS)",
+        "Neuromyelitis Optica Spectrum Disorder (NMOSD)",
+        "Acute Hemorrhagic Leukoencephalitis (AHLE) / Hurst's disease"
+      ]
+    }
+  },
+  {
+    "filename": "case0225_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0226_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Arteriovenous Malformation (AVM)",
+      "other_possible_diagnoses": [
+        "Hemangioblastoma",
+        "Highly vascular metastasis (e.g., renal cell carcinoma, melanoma)",
+        "Dural Arteriovenous Fistula (dAVF) with parenchymal involvement",
+        ""
+      ]
+    }
+  },
+  {
+    "filename": "case0226_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Cerebellar Arteriovenous Malformation (AVM) with hemorrhage and vasogenic edema**",
+      "other_possible_diagnoses": [
+        "**Hemorrhagic Hemangioblastoma**",
+        "**Hemorrhagic Metastasis**",
+        "**Cavernous Malformation with hemorrhage**",
+        "**"
+      ]
+    }
+  },
+  {
+    "filename": "case0226_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0227_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0228_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0228_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Autoimmune/Paraneoplastic Limbic Encephalitis**",
+      "other_possible_diagnoses": [
+        "**Subacute/Chronic Herpes Simplex Encephalitis (HSE)**",
+        "**Low-grade Glioma (e.g., DNET, ganglioglioma, or low-grade astrocytoma)**"
+      ]
+    }
+  },
+  {
+    "filename": "case0228_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0228_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0229_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0229_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Low-grade glioma (e.g., diffuse astrocytoma, oligodendroglioma, DNET, ganglioglioma)**",
+      "other_possible_diagnoses": [
+        "**Neurocysticercosis**",
+        "**Epidermoid cyst**",
+        "**Arachnoid cyst**"
+      ]
+    }
+  },
+  {
+    "filename": "case0229_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Dysembryoplastic Neuroepithelial Tumor (DNET)**",
+      "other_possible_diagnoses": [
+        "**Focal Cortical Dysplasia (FCD)**",
+        "**Cavernous Malformation (Cavernoma)**",
+        "**Ganglioglioma**",
+        "**Low-grade Glioma ("
+      ]
+    }
+  },
+  {
+    "filename": "case0230_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0231_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0232_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0232_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0233_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0233_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0233_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0233_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0233_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0234_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0234_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0234_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Neurosarcoidosis** (or Sarcoidosis with CNS involvement)",
+      "other_possible_diagnoses": [
+        "**Beh\u00e7et's disease**",
+        "**Systemic Lupus Erythematosus (SLE) with CNS involvement**",
+        "**Granulomatosis with Polyangiitis (GPA) /"
+      ]
+    }
+  },
+  {
+    "filename": "case0235_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0236_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0236_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0236_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0237_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0237_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0237_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0237_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0237_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0238_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0238_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0239_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0239_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Medulloblastoma",
+      "other_possible_diagnoses": [
+        "Ependymoma",
+        "Pilocytic Astrocytoma",
+        "Atypical Teratoid/Rhabdoid Tumor (AT/RT)",
+        "Brainstem Glioma"
+      ]
+    }
+  },
+  {
+    "filename": "case0239_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0239_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0239_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0240_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0240_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Hypoxic-Ischemic Encephalopathy (HIE)",
+      "other_possible_diagnoses": [
+        "Acute Necrotizing Encephalopathy of Childhood (ANEC)",
+        "Mitochondrial Encephalopathy (e.g., Leigh Syndrome)",
+        "Toxic Encephalopathy (e.g., Carbon Monoxide Poisoning)"
+      ]
+    }
+  },
+  {
+    "filename": "case0240_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Hypoxic-Ischemic Encephalopathy (HIE)**",
+      "other_possible_diagnoses": [
+        "Acute Necrotizing Encephalopathy of Childhood (ANEC)",
+        "Mitochondrial Encephalopathy (e.g., Leigh Syndrome)",
+        "Toxic Encephalopathy (e.g., Carbon Monoxide poisoning, or"
+      ]
+    }
+  },
+  {
+    "filename": "case0240_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0240_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0240_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0241_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0241_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0241_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Intradiploic Encephalocele**",
+      "other_possible_diagnoses": [
+        "**Meningoencephalocele**",
+        "**Porencephalic Cyst with Skull Defect**",
+        "**Arachnoid Cyst with Skull Erosion**",
+        "**Lytic Skull"
+      ]
+    }
+  },
+  {
+    "filename": "case0242_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0242_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Neuroepithelial Cyst (Ependymal or Neuroglial Cyst) with Partial Agenesis of the Corpus Callosum**",
+      "other_possible_diagnoses": [
+        "**Interhemispheric Arachnoid Cyst with Partial Agenesis of the Corpus Callosum**",
+        "**Aicardi Syndrome**",
+        "**Lobar Hol"
+      ]
+    }
+  },
+  {
+    "filename": "case0243_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0243_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0243_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0243_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0244_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0245_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0245_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Epilepsy secondary to remote hypoxic-ischemic encephalopathy (HIE)**",
+      "other_possible_diagnoses": [
+        "**Epilepsy secondary to remote ischemic stroke**",
+        "**Epilepsy secondary to remote traumatic brain injury (TBI)**",
+        "**Porencephaly with associated epilepsy**",
+        "**Epilepsy secondary to remote severe encephalitis/meningitis**"
+      ]
+    }
+  },
+  {
+    "filename": "case0245_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Developmental Venous Anomaly (DVA)",
+      "other_possible_diagnoses": [
+        "Cavernous Malformation (Cavernoma)",
+        "Arteriovenous Malformation (AVM)",
+        "Capillary Telangiectasia",
+        "Calcified Low-Grade Glioma (e."
+      ]
+    }
+  },
+  {
+    "filename": "case0246_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0247_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0248_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0249_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Niemann-Pick Type C (NPC)**",
+      "other_possible_diagnoses": [
+        "**Mitochondrial Disorder (e.g., MELAS, MERRF, Leigh Syndrome spectrum)**",
+        "**Spinocerebellar Ataxia (SCA) - particularly SCA2 or SCA3**",
+        "**Progressive Supr"
+      ]
+    }
+  },
+  {
+    "filename": "case0250_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0250_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0250_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Multiple Brain Abscesses**",
+      "other_possible_diagnoses": [
+        "**Multiple Brain Metastases**",
+        "**Disseminated CNS Tuberculosis (Tuberculomas)**",
+        "**CNS Nocardiosis**",
+        "**CNS Fungal Abscesses (e.g., Cryptococcosis, Asperg"
+      ]
+    }
+  },
+  {
+    "filename": "case0250_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "** Tuberculosis (CNS Tuberculomas with pulmonary involvement)",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0250_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "Tuberculosis (CNS Tuberculomas/Miliary TB with CNS involvement)**",
+      "other_possible_diagnoses": [
+        "Metastatic Disease (e.g., from Lung Cancer)",
+        "Systemic Fungal Infection with CNS involvement (e.g., Cryptococcosis, Aspergillosis)",
+        "Multiple Bacterial Abscesses"
+      ]
+    }
+  },
+  {
+    "filename": "case0251_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0251_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0251_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0251_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Cerebral Amyloid Angiopathy (CAA)**",
+      "other_possible_diagnoses": [
+        "Cavernous Malformation (Cavernoma)",
+        "Hypertensive Microangiopathy (Chronic Hypertensive Encephalopathy)",
+        "Hemorrhagic Brain Tumor (e.g., Metastasis, Glioblastoma)"
+      ]
+    }
+  },
+  {
+    "filename": "case0251_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "Low-grade glioma (e.g., diffuse astrocytoma WHO grade II, oligodendroglioma WHO grade II)",
+      "other_possible_diagnoses": [
+        "Chronic ischemic stroke (e.g., progressive small vessel disease or multiple lacunar infarcts)",
+        "Chronic demyelinating disease (e.g., chronic multiple sclerosis plaque, or"
+      ]
+    }
+  },
+  {
+    "filename": "case0251_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0252_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Rasmussen's Encephalitis",
+      "other_possible_diagnoses": [
+        "Focal Cortical Dysplasia (FCD)",
+        "Sturge-Weber Syndrome",
+        "Hemiconvulsion-Hemiplegia-Epilepsy (HHE) Syndrome",
+        "Dyke-Davidoff-Masson Syndrome"
+      ]
+    }
+  },
+  {
+    "filename": "case0252_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0253_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0254_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0254_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0254_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0255_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0255_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0255_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Cranium bifidum occultum with associated venous malformation**",
+      "other_possible_diagnoses": [
+        "**Isolated Venous Malformation**",
+        "**Meningocele (or Meningocele Manqu\u00e9)**",
+        "**Lymphatic Malformation**",
+        "**Dermoid Cyst**"
+      ]
+    }
+  },
+  {
+    "filename": "case0256_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0257_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Joubert Syndrome",
+      "other_possible_diagnoses": [
+        "Pontocerebellar Hypoplasia",
+        "Dandy-Walker Malformation Spectrum",
+        "CHARGE Syndrome",
+        "Zellweger Syndrome (Peroxisomal Biogenesis Disorder)"
+      ]
+    }
+  },
+  {
+    "filename": "case0258_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0259_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0260_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0261_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "X-linked Adrenoleukodystrophy (X-ALD)",
+      "other_possible_diagnoses": [
+        "Metachromatic Leukodystrophy (MLD)",
+        "Krabbe Disease (Globoid Cell Leukodystrophy)",
+        "Mitochondrial Encephalomyopathy, Lactic Acidosis, and Stroke-like episodes"
+      ]
+    }
+  },
+  {
+    "filename": "case0261_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0261_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0261_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "X-linked Adrenoleukodystrophy (X-ALD), Cerebral Form",
+      "other_possible_diagnoses": [
+        "Autoimmune Adrenalitis (Addison's Disease)",
+        "Metachromatic Leukodystrophy",
+        "Peroxisomal Biogenesis Disorder (Zellweger Spectrum Disorder)"
+      ]
+    }
+  },
+  {
+    "filename": "case0262_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0262_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0262_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0262_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0262_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0263_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0263_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Artery of Percheron Infarct**",
+      "other_possible_diagnoses": [
+        "**Wernicke Encephalopathy**",
+        "**Deep Cerebral Venous Thrombosis**",
+        "**Autoimmune Encephalitis**",
+        "**Non-convulsive Status Epilepticus (secondary to"
+      ]
+    }
+  },
+  {
+    "filename": "case0264_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0265_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0265_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0266_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Medulloblastoma",
+      "other_possible_diagnoses": [
+        "Ependymoma",
+        "Atypical Teratoid/Rhabdoid Tumor (AT/RT)",
+        "Pilocytic Astrocytoma",
+        "Brainstem Glioma"
+      ]
+    }
+  },
+  {
+    "filename": "case0267_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0267_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0267_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0268_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0268_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0268_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0268_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0268_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0269_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0270_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0270_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0270_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Megalencephalic Leukoencephalopathy with Subcortical Cysts (MLC)**",
+      "other_possible_diagnoses": [
+        "**Glutaric Aciduria Type 1 (GA1)**",
+        "**Canavan Disease**",
+        "**Alexander Disease**",
+        "**Porenceph"
+      ]
+    }
+  },
+  {
+    "filename": "case0270_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Canavan Disease**",
+      "other_possible_diagnoses": [
+        "**Megalencephalic Leukoencephalopathy with Subcortical Cysts (MLC)**",
+        "**Alexander Disease**",
+        "**Metachromatic Leukodystrophy (MLD)**",
+        "**Krabbe Disease (Glob"
+      ]
+    }
+  },
+  {
+    "filename": "case0271_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0271_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "** Bilateral Medial Medullary Infarction",
+      "other_possible_diagnoses": [
+        "Osmotic Demyelination Syndrome (Extrapontine Myelinolysis involving the medulla)",
+        "Brainstem Encephalitis (e.g., viral, autoimmune, paraneoplastic)",
+        "Acute Disseminated Encephalomyelitis (ADEM"
+      ]
+    }
+  },
+  {
+    "filename": "case0271_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0272_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0273_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Wernicke Encephalopathy (with haemorrhage)",
+      "other_possible_diagnoses": [
+        "Cerebral Venous Sinus Thrombosis (CVST)",
+        "Ruptured Arteriovenous Malformation (AVM) or Cavernoma",
+        "Coagulopathy-related haemorrhage (e.g., due to severe"
+      ]
+    }
+  },
+  {
+    "filename": "case0273_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Wernicke Encephalopathy",
+      "other_possible_diagnoses": [
+        "Osmotic Demyelination Syndrome (ODS) / Central Pontine Myelinolysis (CPM)",
+        "Viral Encephalitis",
+        "Autoimmune Encephalitis",
+        "Mitochondrial Encephalopathy (e.g., Leigh"
+      ]
+    }
+  },
+  {
+    "filename": "case0273_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "Wernicke Encephalopathy",
+      "other_possible_diagnoses": [
+        "Osmotic Demyelination Syndrome (Central Pontine Myelinolysis/Extrapontine Myelinolysis)",
+        "Autoimmune Encephalitis (e.g., anti-GFAP, some paraneoplastic syndromes)",
+        "Mitochondrial Encephalopathy"
+      ]
+    }
+  },
+  {
+    "filename": "case0273_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "Wernicke Encephalopathy",
+      "other_possible_diagnoses": [
+        "Autoimmune Encephalitis (e.g., Anti-LGI1, Anti-GFAP, Anti-MOG associated disease)",
+        "Neurosarcoidosis",
+        "Viral Encephalitis (e.g., HSV encephalitis with atypical brainstem involvement)"
+      ]
+    }
+  },
+  {
+    "filename": "case0273_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "Wernicke Encephalopathy",
+      "other_possible_diagnoses": [
+        "Herpes Simplex Virus (HSV) Encephalitis",
+        "Autoimmune Encephalitis (e.g., Limbic Encephalitis)",
+        "Listeria Rhombencephalitis",
+        "CNS Vasculitis"
+      ]
+    }
+  },
+  {
+    "filename": "case0273_006.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Wernicke Encephalopathy**",
+      "other_possible_diagnoses": [
+        "**Autoimmune Encephalitis (e.g., Limbic Encephalitis)**",
+        "**Osmotic Demyelination Syndrome (ODS)**",
+        "**Viral Encephalitis**",
+        "**Other Severe Metabolic"
+      ]
+    }
+  },
+  {
+    "filename": "case0274_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0274_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Herpes Simplex Encephalitis (HSE)**",
+      "other_possible_diagnoses": [
+        "**Autoimmune Limbic Encephalitis**",
+        "**Tuberculous Meningoencephalitis**",
+        "**Fungal Meningoencephalitis**",
+        "**Neurosarcoidosis**"
+      ]
+    }
+  },
+  {
+    "filename": "case0275_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0275_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0276_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0276_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Tuberculoma**",
+      "other_possible_diagnoses": [
+        "**Pyogenic Brain Abscess**",
+        "**Neurocysticercosis**",
+        "**Primary Brain Tumor (e.g., High-grade Glioma)**",
+        "**Fungal Granuloma/Abscess**"
+      ]
+    }
+  },
+  {
+    "filename": "case0276_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0276_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Tuberculous Pachymeningitis / Dural Tuberculoma**",
+      "other_possible_diagnoses": [
+        "**Meningioma**",
+        "**Primary CNS Lymphoma**",
+        "**Neurosarcoidosis**",
+        "**Idiopathic Hypertrophic Pachymeningitis**"
+      ]
+    }
+  },
+  {
+    "filename": "case0276_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0277_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "Myositis Ossificans (Heterotopic Ossification) of the extraocular muscles",
+      "other_possible_diagnoses": [
+        "Orbital Meningioma",
+        "Chronic Sclerosing Orbital Inflammation (Orbital Pseudotumor)",
+        "Orbital Osteoma",
+        "Foreign Body Granuloma (post-surgical"
+      ]
+    }
+  },
+  {
+    "filename": "case0277_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Sclerosing Orbital Inflammation (or Fibrotic Orbital Pseudotumor)",
+      "other_possible_diagnoses": [
+        "Optic Nerve Sheath Meningioma",
+        "Fibrous Dysplasia (orbital involvement)",
+        "Post-surgical Granuloma/Scarring with Calcification",
+        "Orbital Phlebol"
+      ]
+    }
+  },
+  {
+    "filename": "case0277_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Sclerosing Idiopathic Orbital Inflammation (Orbital Pseudotumor)**",
+      "other_possible_diagnoses": [
+        "**Post-surgical Granuloma/Scar with Calcification**",
+        "**Orbital Meningioma**",
+        "**Fibrous Dysplasia (Orbital)**",
+        "**Thromb"
+      ]
+    }
+  },
+  {
+    "filename": "case0277_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0278_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0278_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Cavernous Malformation (Cavernoma)",
+      "other_possible_diagnoses": [
+        "Hemorrhagic Brain Tumor (e.g., Pilocytic Astrocytoma, Ganglioglioma, Oligodendroglioma)",
+        "Arteriovenous Malformation (AVM) with hemorrhage",
+        "Cerebral Ven"
+      ]
+    }
+  },
+  {
+    "filename": "case0279_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "**Choroid Plexus Carcinoma**",
+      "other_possible_diagnoses": [
+        "**Choroid Plexus Papilloma**",
+        "**Supratentorial Ependymoma**",
+        "**Central Neurocytoma**",
+        "**Atypical Teratoid/Rhab"
+      ]
+    }
+  },
+  {
+    "filename": "case0279_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "Medulloblastoma",
+      "other_possible_diagnoses": [
+        "Atypical Teratoid/Rhabdoid Tumor (AT/RT)",
+        "Brain Abscess",
+        "High-grade Glioma (e.g., Glioblastoma)",
+        "Primary CNS Lymphoma"
+      ]
+    }
+  },
+  {
+    "filename": "case0279_003.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0279_004.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0279_005.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0280_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0281_001.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "case0281_002.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  },
+  {
+    "filename": "logo.png",
+    "predictions": {
+      "most_likely_diagnosis": "N/A",
+      "other_possible_diagnoses": []
+    }
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "run_date": "2026-04-27T15:29:00Z",
+  "parameters": {
+    "pdf_location":  "https://openreview.net/pdf?id=DwFDfrPsm8",
+    "paper_url":     "https://openreview.net/forum?id=DwFDfrPsm8",
+    "dataset_url":   "https://huggingface.co/datasets/c-i-ber/Nova"
+  },
+  "stages": [
+    { "name": "setup",               "passed": true, "message": "Shapes + ontology already present in workspace" },
+    { "name": "paper_analysis",      "passed": true, "message": "Paper read, task + 1 baseline extracted" },
+    { "name": "problem_generated",   "passed": true, "message": "problem.jsonld written" },
+    { "name": "solutions_generated", "passed": true, "message": "1 solution file written" },
+    { "name": "json_validity",       "passed": true, "message": "All files parse as JSON" },
+    { "name": "shacl_conformance",   "passed": false, "message": "Validation skipped after 3 failed attempts to run validator" },
+    { "name": "report_generation",   "passed": true, "message": "summary.md + validation_report.json written" }
+  ],
+  "per_file": [
+    { "file": "problem.jsonld",               "json_valid": true, "shacl_conforms": null, "iterations": 0 },
+    { "file": "solutions/gemini_2_0_flash.jsonld",     "json_valid": true, "shacl_conforms": null, "iterations": 0 }
+  ],
+  "results":        { "pass": 0, "fail": 0 },
+  "overall_passed": false,
+  "iterations":     0,
+  "output_files": [
+    "./problem.jsonld",
+    "./solutions/gemini_2_0_flash.jsonld",
+    "./summary.md",
+    "./validation_report.json"
+  ]
+}

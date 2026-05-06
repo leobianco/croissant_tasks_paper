@@ -1,0 +1,142 @@
+{
+  "@context": {
+    "croissant": "http://mlcommons.org/croissant/",
+    "schema":    "https://schema.org/",
+    "xsd":       "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@type": "croissant:TaskProblem",
+  "@id":   "https://openreview.net/forum?id=DwFDfrPsm8",
+  "schema:name":        "NOVA",
+  "schema:description": "A benchmark for evaluating anomaly localization, image description, and diagnostic reasoning in clinical brain MRI.",
+  "schema:url": "https://openreview.net/forum?id=DwFDfrPsm8",
+  "schema:citation": "Bercea C. et al., NOVA: A Benchmark for Anomaly Localization and Clinical Reasoning in Brain MRI, 2025.",
+
+  "croissant:input": {
+    "@type": "schema:Dataset",
+    "@id": "https://huggingface.co/datasets/c-i-ber/Nova",
+    "schema:name": "NOVA Dataset",
+    "schema:url": "https://huggingface.co/datasets/c-i-ber/Nova"
+  },
+
+  "croissant:output": {
+    "@type": "croissant:OutputSpec",
+    "@id": "https://openreview.net/forum?id=DwFDfrPsm8#outputSpec",
+    "croissant:schema": {
+      "@type": "croissant:RecordSet",
+      "croissant:field": [
+        {
+          "@type": "croissant:Field",
+          "schema:name": "bboxes",
+          "croissant:dataType": "schema:StructuredValue",
+          "schema:description": "Predicted bounding boxes for anomaly localization."
+        },
+        {
+          "@type": "croissant:Field",
+          "schema:name": "caption",
+          "croissant:dataType": "xsd:string",
+          "schema:description": "Generated image description."
+        },
+        {
+          "@type": "croissant:Field",
+          "schema:name": "diagnosis",
+          "croissant:dataType": "xsd:string",
+          "schema:description": "Predicted diagnosis."
+        }
+      ]
+    }
+  },
+
+  "croissant:evaluation": {
+    "@type": "croissant:EvaluationSpec",
+    "@id": "https://openreview.net/forum?id=DwFDfrPsm8#evaluationSpec",
+    "croissant:expectedMetric": [
+      "mAP@30", "mAP@50", "mAP@[50:95]", "ACC50", "TP30", "FP30", "FNR",
+      "Clinical Term F1", "Modality Term F1", "BLEU-4", "METEOR", "BERT F1", "Binary F1",
+      "Top-1 Accuracy", "Top-5 Accuracy"
+    ]
+  },
+
+  "croissant:subTask": [
+    {
+      "@type": "croissant:TaskProblem",
+      "@id": "https://openreview.net/forum?id=DwFDfrPsm8#localization",
+      "schema:name": "NOVA - Anomaly Localization",
+      "schema:description": "Detect and localize abnormalities within brain MRI scans by predicting bounding boxes.",
+      "croissant:input": { "@id": "https://huggingface.co/datasets/c-i-ber/Nova" },
+      "croissant:output": {
+        "@type": "croissant:OutputSpec",
+        "@id": "https://openreview.net/forum?id=DwFDfrPsm8#localizationOutputSpec",
+        "croissant:schema": {
+          "@type": "croissant:RecordSet",
+          "croissant:field": [
+            {
+              "@type": "croissant:Field",
+              "schema:name": "bboxes",
+              "croissant:dataType": "schema:StructuredValue",
+              "schema:description": "List of bounding boxes [ymin, xmin, ymax, xmax] or similar depending on model convention."
+            }
+          ]
+        }
+      },
+      "croissant:evaluation": {
+        "@type": "croissant:EvaluationSpec",
+        "@id": "https://openreview.net/forum?id=DwFDfrPsm8#localizationEvaluationSpec",
+        "croissant:expectedMetric": ["mAP@30", "mAP@50", "mAP@[50:95]", "ACC50", "TP30", "FP30", "FNR"]
+      }
+    },
+    {
+      "@type": "croissant:TaskProblem",
+      "@id": "https://openreview.net/forum?id=DwFDfrPsm8#captioning",
+      "schema:name": "NOVA - Image Description",
+      "schema:description": "Generate clinically meaningful descriptions of brain MRI scans.",
+      "croissant:input": { "@id": "https://huggingface.co/datasets/c-i-ber/Nova" },
+      "croissant:output": {
+        "@type": "croissant:OutputSpec",
+        "@id": "https://openreview.net/forum?id=DwFDfrPsm8#captioningOutputSpec",
+        "croissant:schema": {
+          "@type": "croissant:RecordSet",
+          "croissant:field": [
+            {
+              "@type": "croissant:Field",
+              "schema:name": "caption",
+              "croissant:dataType": "xsd:string",
+              "schema:description": "Generated structured radiological description."
+            }
+          ]
+        }
+      },
+      "croissant:evaluation": {
+        "@type": "croissant:EvaluationSpec",
+        "@id": "https://openreview.net/forum?id=DwFDfrPsm8#captioningEvaluationSpec",
+        "croissant:expectedMetric": ["Clinical Term F1", "Modality Term F1", "BLEU-4", "METEOR", "BERT F1", "Binary F1"]
+      }
+    },
+    {
+      "@type": "croissant:TaskProblem",
+      "@id": "https://openreview.net/forum?id=DwFDfrPsm8#reasoning",
+      "schema:name": "NOVA - Diagnostic Reasoning",
+      "schema:description": "Integrate clinical context and imaging observations to predict a diagnosis.",
+      "croissant:input": { "@id": "https://huggingface.co/datasets/c-i-ber/Nova" },
+      "croissant:output": {
+        "@type": "croissant:OutputSpec",
+        "@id": "https://openreview.net/forum?id=DwFDfrPsm8#reasoningOutputSpec",
+        "croissant:schema": {
+          "@type": "croissant:RecordSet",
+          "croissant:field": [
+            {
+              "@type": "croissant:Field",
+              "schema:name": "diagnosis",
+              "croissant:dataType": "xsd:string",
+              "schema:description": "Predicted free-text diagnostic label or structured JSON with Top-5 candidates."
+            }
+          ]
+        }
+      },
+      "croissant:evaluation": {
+        "@type": "croissant:EvaluationSpec",
+        "@id": "https://openreview.net/forum?id=DwFDfrPsm8#reasoningEvaluationSpec",
+        "croissant:expectedMetric": ["Top-1 Accuracy", "Top-5 Accuracy"]
+      }
+    }
+  ]
+}

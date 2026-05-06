@@ -1,0 +1,169 @@
+{
+  "@context": {
+    "croissant": "http://mlcommons.org/croissant/",
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@type": "croissant:TaskProblem",
+  "@id": "https://huggingface.co/datasets/c-i-ber/Nova",
+  "schema:name": "NOVA: A Benchmark for Rare Anomaly Localization and Clinical Reasoning in Brain MRI",
+  "schema:description": "NOVA is a challenging, real-life evaluation-only benchmark of ~900 brain MRI scans that span 281 rare pathologies. It enables joint assessment of anomaly localisation, visual captioning, and diagnostic reasoning.",
+  "croissant:input": {
+    "@type": "schema:Dataset",
+    "@id": "https://huggingface.co/datasets/c-i-ber/Nova",
+    "schema:name": "NOVA Dataset on Hugging Face"
+  },
+  "croissant:output": {
+    "@type": "croissant:OutputSpec",
+    "@id": "https://huggingface.co/datasets/c-i-ber/Nova#outputSpec",
+    "croissant:schema": {
+      "@type": "croissant:RecordSet",
+      "croissant:field": [
+        {
+          "@type": "croissant:Field",
+          "schema:name": "bounding_boxes",
+          "croissant:dataType": "xsd:string",
+          "schema:description": "Predicted bounding boxes around abnormal regions in the brain MRI scans."
+        },
+        {
+          "@type": "croissant:Field",
+          "schema:name": "generated_caption",
+          "croissant:dataType": "xsd:string",
+          "schema:description": "Diagnostic description generated from the MRI image."
+        },
+        {
+          "@type": "croissant:Field",
+          "schema:name": "diagnosis",
+          "croissant:dataType": "xsd:string",
+          "schema:description": "Free-text diagnostic label predicting the final diagnosis."
+        }
+      ]
+    }
+  },
+  "croissant:evaluation": {
+    "@type": "croissant:EvaluationSpec",
+    "@id": "https://huggingface.co/datasets/c-i-ber/Nova#evaluationSpec",
+    "croissant:expectedMetric": [
+      "mAP@30",
+      "mAP@50",
+      "mAP@50-95",
+      "ACC50",
+      "TP30",
+      "FP30",
+      "FNR",
+      "Clinical F1",
+      "Modality F1",
+      "BLEU-4",
+      "METEOR",
+      "BERT F1",
+      "Binary F1",
+      "Top-1",
+      "Top-5",
+      "Coverage",
+      "Entropy"
+    ]
+  },
+  "croissant:subTask": [
+    {
+      "@type": "croissant:TaskProblem",
+      "@id": "https://huggingface.co/datasets/c-i-ber/Nova#anomaly_localization",
+      "schema:name": "NOVA - Task 1: Anomaly Localization",
+      "schema:description": "Detect and localize abnormalities within brain MRI scans.",
+      "croissant:input": { "@id": "https://huggingface.co/datasets/c-i-ber/Nova" },
+      "croissant:output": {
+        "@type": "croissant:OutputSpec",
+        "@id": "https://huggingface.co/datasets/c-i-ber/Nova#anomaly_localization_output",
+        "croissant:schema": {
+          "@type": "croissant:RecordSet",
+          "croissant:field": [
+            {
+              "@type": "croissant:Field",
+              "schema:name": "bounding_boxes",
+              "croissant:dataType": "xsd:string",
+              "schema:description": "Predicted bounding boxes around abnormal regions using convention [ymax, xmin, xmax, ymin] for Gemini models."
+            }
+          ]
+        }
+      },
+      "croissant:evaluation": {
+        "@type": "croissant:EvaluationSpec",
+        "@id": "https://huggingface.co/datasets/c-i-ber/Nova#anomaly_localization_evaluation",
+        "croissant:expectedMetric": [
+          "mAP@30",
+          "mAP@50",
+          "mAP@50-95",
+          "ACC50",
+          "TP30",
+          "FP30",
+          "FNR"
+        ]
+      }
+    },
+    {
+      "@type": "croissant:TaskProblem",
+      "@id": "https://huggingface.co/datasets/c-i-ber/Nova#image_captioning",
+      "schema:name": "NOVA - Task 2: Image Captioning",
+      "schema:description": "Generate clinically meaningful descriptions of brain MRI scans.",
+      "croissant:input": { "@id": "https://huggingface.co/datasets/c-i-ber/Nova" },
+      "croissant:output": {
+        "@type": "croissant:OutputSpec",
+        "@id": "https://huggingface.co/datasets/c-i-ber/Nova#image_captioning_output",
+        "croissant:schema": {
+          "@type": "croissant:RecordSet",
+          "croissant:field": [
+            {
+              "@type": "croissant:Field",
+              "schema:name": "generated_caption",
+              "croissant:dataType": "xsd:string",
+              "schema:description": "Free-form string text caption describing the imaging findings."
+            }
+          ]
+        }
+      },
+      "croissant:evaluation": {
+        "@type": "croissant:EvaluationSpec",
+        "@id": "https://huggingface.co/datasets/c-i-ber/Nova#image_captioning_evaluation",
+        "croissant:expectedMetric": [
+          "Clinical F1",
+          "Modality F1",
+          "BLEU-4",
+          "METEOR",
+          "BERT F1",
+          "Binary F1"
+        ]
+      }
+    },
+    {
+      "@type": "croissant:TaskProblem",
+      "@id": "https://huggingface.co/datasets/c-i-ber/Nova#diagnostic_reasoning",
+      "schema:name": "NOVA - Task 3: Multimodal Diagnostic Reasoning",
+      "schema:description": "Predict the final diagnosis by integrating clinical context and imaging observations.",
+      "croissant:input": { "@id": "https://huggingface.co/datasets/c-i-ber/Nova" },
+      "croissant:output": {
+        "@type": "croissant:OutputSpec",
+        "@id": "https://huggingface.co/datasets/c-i-ber/Nova#diagnostic_reasoning_output",
+        "croissant:schema": {
+          "@type": "croissant:RecordSet",
+          "croissant:field": [
+            {
+              "@type": "croissant:Field",
+              "schema:name": "diagnosis",
+              "croissant:dataType": "xsd:string",
+              "schema:description": "A list of five candidate diagnoses with one primary diagnosis and four alternatives."
+            }
+          ]
+        }
+      },
+      "croissant:evaluation": {
+        "@type": "croissant:EvaluationSpec",
+        "@id": "https://huggingface.co/datasets/c-i-ber/Nova#diagnostic_reasoning_evaluation",
+        "croissant:expectedMetric": [
+          "Top-1",
+          "Top-5",
+          "Coverage",
+          "Entropy"
+        ]
+      }
+    }
+  ]
+}

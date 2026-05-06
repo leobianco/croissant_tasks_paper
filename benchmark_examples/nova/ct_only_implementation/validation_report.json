@@ -1,0 +1,31 @@
+{
+  "version": "1.0.0",
+  "run_date": "2026-05-01T14:47:00Z",
+  "parameters": {
+    "pdf_location": "nova_pdf.pdf",
+    "paper_url": "",
+    "dataset_url": "https://huggingface.co/datasets/c-i-ber/Nova"
+  },
+  "stages": [
+    { "name": "setup",               "passed": true, "message": "Shapes + ontology downloaded, deps installed" },
+    { "name": "paper_analysis",      "passed": true, "message": "Paper read, task + 1 baseline extracted" },
+    { "name": "problem_generated",   "passed": true, "message": "problem.jsonld written" },
+    { "name": "solutions_generated", "passed": true, "message": "gemini2_0_flash.jsonld solution file written" },
+    { "name": "json_validity",       "passed": true, "message": "All files parse as JSON" },
+    { "name": "shacl_conformance",   "passed": true, "message": "All files conform to Croissant Tasks SHACL shapes" },
+    { "name": "report_generation",   "passed": true, "message": "summary.md + validation_report.json written" }
+  ],
+  "per_file": [
+    { "file": "problem.jsonld",                   "json_valid": true, "shacl_conforms": true, "iterations": 1 },
+    { "file": "solutions/gemini2_0_flash.jsonld", "json_valid": true, "shacl_conforms": true, "iterations": 1 }
+  ],
+  "results": { "pass": 2, "fail": 0 },
+  "overall_passed": true,
+  "iterations": 1,
+  "output_files": [
+    "./problem.jsonld",
+    "./solutions/gemini2_0_flash.jsonld",
+    "./summary.md",
+    "./validation_report.json"
+  ]
+}

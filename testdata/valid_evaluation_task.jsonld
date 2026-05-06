@@ -1,0 +1,33 @@
+{
+  "@context": {
+    "croissant": "http://mlcommons.org/croissant/",
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@type": "croissant:EvaluationTask",
+  "croissant:evaluatedSolution": {
+    "@type": "croissant:TaskSolution",
+    "@id": "http://example.org/my-solution",
+    "schema:isBasedOn": {
+      "@id": "http://example.org/ValidProblem"
+    },
+    "croissant:implementation": {
+      "@type": "schema:SoftwareSourceCode",
+      "@id": "http://example.org/concreteImplementation"
+    }
+  },
+
+
+  "croissant:evaluationResults": [
+    {
+      "@type": "croissant:EvaluationResult",
+      "croissant:metric": "Accuracy",
+      "croissant:value": 0.95
+    },
+    {
+      "@type": "croissant:EvaluationResult",
+      "croissant:metric": "F1-Score",
+      "croissant:value": "0.94"
+    }
+  ]
+}

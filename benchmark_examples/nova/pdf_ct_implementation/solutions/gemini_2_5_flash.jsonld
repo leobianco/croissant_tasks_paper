@@ -1,0 +1,163 @@
+{
+  "@context": {
+    "croissant": "http://mlcommons.org/croissant/",
+    "schema": "https://schema.org/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#"
+  },
+  "@type": "croissant:TaskSolution",
+  "@id": "https://openreview.net/forum?id=DwFDfrPsm8_solution_gemini_2_5_flash",
+  "schema:name": "NOVA Solution - Gemini 2.5 Flash",
+  "schema:isBasedOn": {
+    "@id": "https://openreview.net/forum?id=DwFDfrPsm8"
+  },
+  "croissant:subTask": [
+    {
+      "@type": "croissant:TaskSolution",
+      "@id": "https://openreview.net/forum?id=DwFDfrPsm8_solution_gemini_2_5_flash#localization",
+      "schema:name": "NOVA Solution - Anomaly Localization",
+      "schema:isBasedOn": {
+        "@id": "https://openreview.net/forum?id=DwFDfrPsm8#localization"
+      },
+      "croissant:implementation": {
+        "@type": "schema:SoftwareApplication",
+        "@id": "https://openreview.net/forum?id=DwFDfrPsm8_solution_gemini_2_5_flash#localization_impl",
+        "schema:name": "Gemini 2.5 Flash Localization Baseline",
+        "schema:url": "../implementation/evaluate_baseline.py"
+      },
+      "croissant:output": {
+        "@type": "schema:Dataset",
+        "@id": "urn:uuid:nova-localization-outputs",
+        "schema:name": "Localization Outputs",
+        "schema:url": "../implementation/outputs/localization_preds.json"
+      },
+      "croissant:evaluation": {
+        "@type": "croissant:EvaluationTask",
+        "schema:name": "Evaluation of Localization",
+        "croissant:evaluationResults": [
+          {
+            "@type": "croissant:EvaluationResult",
+            "croissant:metric": "mAP@[50:95]",
+            "croissant:value": 0.006351108292626788
+          },
+          {
+            "@type": "croissant:EvaluationResult",
+            "croissant:metric": "mAP@50",
+            "croissant:value": 0.027056636174008386
+          },
+          {
+            "@type": "croissant:EvaluationResult",
+            "croissant:metric": "mAP@30",
+            "croissant:value": 0.3583908980089395
+          },
+          {
+            "@type": "croissant:EvaluationResult",
+            "croissant:metric": "ACC50",
+            "croissant:value": 0.08509700176366843
+          },
+          {
+            "@type": "croissant:EvaluationResult",
+            "croissant:metric": "TP30",
+            "croissant:value": 441
+          },
+          {
+            "@type": "croissant:EvaluationResult",
+            "croissant:metric": "FP30",
+            "croissant:value": 952
+          },
+          {
+            "@type": "croissant:EvaluationResult",
+            "croissant:metric": "FNR",
+            "croissant:value": 0.8192883895131086
+          }
+        ]
+      }
+    },
+    {
+      "@type": "croissant:TaskSolution",
+      "@id": "https://openreview.net/forum?id=DwFDfrPsm8_solution_gemini_2_5_flash#captioning",
+      "schema:name": "NOVA Solution - Image Description",
+      "schema:isBasedOn": {
+        "@id": "https://openreview.net/forum?id=DwFDfrPsm8#captioning"
+      },
+      "croissant:implementation": {
+        "@type": "schema:SoftwareApplication",
+        "@id": "https://openreview.net/forum?id=DwFDfrPsm8_solution_gemini_2_5_flash#captioning_impl",
+        "schema:name": "Gemini 2.5 Flash Captioning Baseline",
+        "schema:url": "../implementation/evaluate_baseline.py"
+      },
+      "croissant:output": {
+        "@type": "schema:Dataset",
+        "@id": "urn:uuid:nova-captioning-outputs",
+        "schema:name": "Captioning Outputs",
+        "schema:url": "../implementation/outputs/captioning_preds.json"
+      },
+      "croissant:evaluation": {
+        "@type": "croissant:EvaluationTask",
+        "schema:name": "Evaluation of Captioning",
+        "croissant:evaluationResults": [
+          {
+            "@type": "croissant:EvaluationResult",
+            "croissant:metric": "BLEU-4",
+            "croissant:value": 0.017072704823980295
+          },
+          {
+            "@type": "croissant:EvaluationResult",
+            "croissant:metric": "METEOR",
+            "croissant:value": 0.18178373605315695
+          },
+          {
+            "@type": "croissant:EvaluationResult",
+            "croissant:metric": "Clinical_Term_F1",
+            "croissant:value": 0.3533719865730852
+          },
+          {
+            "@type": "croissant:EvaluationResult",
+            "croissant:metric": "Modality_Term_F1",
+            "croissant:value": 0.888888888888889
+          },
+          {
+            "@type": "croissant:EvaluationResult",
+            "croissant:metric": "Binary_F1",
+            "croissant:value": 0.890763482941659
+          }
+        ]
+      }
+    },
+    {
+      "@type": "croissant:TaskSolution",
+      "@id": "https://openreview.net/forum?id=DwFDfrPsm8_solution_gemini_2_5_flash#reasoning",
+      "schema:name": "NOVA Solution - Diagnostic Reasoning",
+      "schema:isBasedOn": {
+        "@id": "https://openreview.net/forum?id=DwFDfrPsm8#reasoning"
+      },
+      "croissant:implementation": {
+        "@type": "schema:SoftwareApplication",
+        "@id": "https://openreview.net/forum?id=DwFDfrPsm8_solution_gemini_2_5_flash#reasoning_impl",
+        "schema:name": "Gemini 2.5 Flash Reasoning Baseline",
+        "schema:url": "../implementation/evaluate_baseline.py"
+      },
+      "croissant:output": {
+        "@type": "schema:Dataset",
+        "@id": "urn:uuid:nova-reasoning-outputs",
+        "schema:name": "Reasoning Outputs",
+        "schema:url": "../implementation/outputs/reasoning_preds.json"
+      },
+      "croissant:evaluation": {
+        "@type": "croissant:EvaluationTask",
+        "schema:name": "Evaluation of Reasoning",
+        "croissant:evaluationResults": [
+          {
+            "@type": "croissant:EvaluationResult",
+            "croissant:metric": "Top-1 Accuracy",
+            "croissant:value": 0.15545755237045203
+          },
+          {
+            "@type": "croissant:EvaluationResult",
+            "croissant:metric": "Top-5 Accuracy",
+            "croissant:value": 0.2205071664829107
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -53,7 +53,7 @@ def format_evaluation_results(model_score, auc, avg_fact_score):
 def main():
     script_dir = Path(__file__).parent.resolve()
     input_file = script_dir / "raw_outputs" / "results_gemini-2.0-flash.jsonl"
-    skeleton_path = Path("/Users/ktgiahieu/Documents/croissant/tasks/benchmark_examples/sageeval/runs/fa181eb6_2026-05-02T12-04Z/paper2ct2code/pdf2ct/results/solution_skeletons/gemini-2.0-flash.jsonld")
+    skeleton_path = Path("~/Documents/croissant/tasks/benchmark_examples/sageeval/runs/fa181eb6_2026-05-02T12-04Z/paper2ct2code/pdf2ct/results/solution_skeletons/gemini-2.0-flash.jsonld")
     output_file = script_dir / "gemini-2.0-flash.jsonld"
 
     results = []

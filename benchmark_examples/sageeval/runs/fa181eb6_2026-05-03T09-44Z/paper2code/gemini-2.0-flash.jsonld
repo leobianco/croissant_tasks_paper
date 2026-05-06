@@ -19,7 +19,7 @@
     "@type": "schema:Dataset",
     "@id": "urn:uuid:sage-eval-output-gemini-2.0-flash",
     "schema:name": "gemini-2.0-flash's outputs on SAGE-Eval",
-    "schema:url": "file:///Users/ktgiahieu/Documents/croissant/tasks/benchmark_examples/sageeval/runs/fa181eb6_2026-05-03T09-44Z/paper2code/raw_outputs/results_gemini-2.0-flash.jsonl"
+    "schema:url": "~/Documents/croissant/tasks/benchmark_examples/sageeval/runs/fa181eb6_2026-05-03T09-44Z/paper2code/raw_outputs/results_gemini-2.0-flash.jsonl"
   },
   "croissant:evaluation": {
     "@type": "croissant:EvaluationTask",

@@ -45,7 +45,7 @@
     {
       "name": "shacl_conformance_against_unpatched_shapes",
       "passed": false,
-      "message": "All files FAIL against the unpatched upstream shapes shipped at tasks/croissant-tasks-shapes.ttl. Failure modes are deterministic shape-load errors (not constraint violations) — see upstream_issues. Symptoms match Luis's Bug A and Bug B in PR #1025 plus one additional finding (#2 below)."
+      "message": "All files FAIL against the unpatched upstream shapes shipped at tasks/croissant-tasks-shapes.ttl. Failure modes are deterministic shape-load errors (not constraint violations) — see upstream_issues. Symptoms match Bug A and Bug B in PR #1025 plus one additional finding (#2 below)."
     }
   ],
   "per_file": [
@@ -83,7 +83,7 @@
       "id": 1,
       "shape": "TaskProblemShape",
       "symptom": "sh:property blank node missing sh:path (body is an sh:or) — pyshacl rejects it as malformed PropertyShape",
-      "status_vs_pr_1025": "known — equivalent to Luis's Bug A",
+      "status_vs_pr_1025": "known — equivalent to Bug A",
       "suggested_fix": "Lift sh:or to NodeShape level; each alternative is a full sh:property with its own sh:path and sh:minCount 1"
     },
     {
@@ -97,7 +97,7 @@
       "id": 3,
       "shape": "EvaluationTaskShape",
       "symptom": "sh:qualifiedMinCount 1 without sh:qualifiedValueShape on croissant:evaluatedSolution — invalid SHACL",
-      "status_vs_pr_1025": "known — equivalent to Luis's Bug B",
+      "status_vs_pr_1025": "known — equivalent to Bug B",
       "suggested_fix": "Replace sh:qualifiedMinCount 1 with sh:minCount 1 (no companion sh:qualifiedMaxCount exists)"
     }
   ],

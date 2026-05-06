@@ -75,9 +75,9 @@ The `risebench_problem.jsonld` and the three `_paper.jsonld` solution files were
 
 | # | Shape | pyshacl symptom | Status vs PR #1025 |
 |---|---|---|---|
-| 1 | `TaskProblemShape` | `'exists but is not a well-formed SHACL PropertyShape'` — `sh:property` blank node has no top-level `sh:path` (its body is `sh:or`) | **Known** — = Luis's Bug A |
+| 1 | `TaskProblemShape` | `'exists but is not a well-formed SHACL PropertyShape'` — `sh:property` blank node has no top-level `sh:path` (its body is `sh:or`) | **Known** — = Bug A |
 | 2 | `TaskShape` (base) | `ClassConstraintComponent: croissant:evaluation must point to an EvaluationTask` — but `TaskProblemShape` permits `EvaluationSpec`; both shapes apply additively under RDFS inference because `TaskProblem ⊑ Task` | **New** — also surfaced by the `core/` example in this PR |
-| 3 | `EvaluationTaskShape` | `'QualifiedValueShapeConstraintComponent must have at least one sh:qualifiedValueShape predicate'` — `sh:qualifiedMinCount 1` used without companion `sh:qualifiedValueShape` | **Known** — = Luis's Bug B |
+| 3 | `EvaluationTaskShape` | `'QualifiedValueShapeConstraintComponent must have at least one sh:qualifiedValueShape predicate'` — `sh:qualifiedMinCount 1` used without companion `sh:qualifiedValueShape` | **Known** — = Bug B |
 
 This is the second example in this PR (alongside `core/`) to surface bug #2 — the `TaskShape` ↔ `TaskProblemShape` evaluation conflict — strengthening the case for fixing it upstream. RISEBench solution shapes are simpler than CoRe's, so the deeply-nested `sh:or` issue (CoRe's bug #4) does not fire here.
 

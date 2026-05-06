@@ -67,13 +67,13 @@ These are the numbers as reported in Table 1. No actual run is associated with t
 
 ### SHACL findings — upstream `tasks/croissant-tasks-shapes.ttl` bugs
 
-The upstream shapes file shipped in PR #1017 (commit `02b87497`) contains three patterns that pyshacl 0.29.1 cannot validate. Two of these were already documented by Luis Oala in PR #1025 (the AbsenceBench example — Bug A and Bug B); one appears to be new. **Per the spec-discipline convention established in PR #1025, this PR does not modify `tasks/croissant-tasks*.ttl`.** Bugs are documented here as upstream issues to address.
+The upstream shapes file shipped in PR #1017 (commit `02b87497`) contains three patterns that pyshacl 0.29.1 cannot validate. Two of these were already documented in PR #1025 (the AbsenceBench example — Bug A and Bug B); one appears to be new. **Per the spec-discipline convention established in PR #1025, this PR does not modify `tasks/croissant-tasks*.ttl`.** Bugs are documented here as upstream issues to address.
 
 | # | Shape | Symptom | Status vs PR #1025 |
 |---|-------|---------|--------------------|
-| 1 | `TaskProblemShape` | `sh:property` blank node missing `sh:path` (its body is an `sh:or`) — pyshacl rejects it as malformed PropertyShape | **Known** — = Luis's Bug A |
+| 1 | `TaskProblemShape` | `sh:property` blank node missing `sh:path` (its body is an `sh:or`) — pyshacl rejects it as malformed PropertyShape | **Known** — = Bug A |
 | 2 | `TaskShape` (base) | Base `croissant:evaluation` constraint allows only `EvaluationTask`; `TaskProblemShape` allows `EvaluationSpec`; `TaskProblem ⊑ Task` so both shapes apply additively under RDFS inference, rejecting the documented `EvaluationSpec` pattern | **New** — also found independently in the CoRe example in this PR |
-| 3 | `EvaluationTaskShape` | `sh:qualifiedMinCount 1` without `sh:qualifiedValueShape` on `croissant:evaluatedSolution` — invalid SHACL | **Known** — = Luis's Bug B |
+| 3 | `EvaluationTaskShape` | `sh:qualifiedMinCount 1` without `sh:qualifiedValueShape` on `croissant:evaluatedSolution` — invalid SHACL | **Known** — = Bug B |
 
 This is the second example in the PR (alongside CoRe) to surface Bug #2 — the `TaskShape` ↔ `TaskProblemShape` evaluation conflict — strengthening the case that it should be fixed upstream.
 

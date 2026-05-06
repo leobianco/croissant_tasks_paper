@@ -16,7 +16,7 @@ import re
 # --- Configuration & Setup ---
 
 def load_environment():
-    env_path = Path("/Users/ktgiahieu/Documents/croissant/tasks/automation/.env")
+    env_path = Path("~/Documents/croissant/tasks/automation/.env")
     load_dotenv(dotenv_path=env_path)
     
     openai_key = os.getenv("OPENAI_KEY_CT")

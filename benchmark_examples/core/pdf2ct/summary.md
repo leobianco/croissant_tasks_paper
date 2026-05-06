@@ -65,13 +65,13 @@ All paper-reported results above are from Table 4 (CoRe Lite evaluation). Gemini
 
 ### SHACL findings — upstream `tasks/croissant-tasks-shapes.ttl` bugs
 
-The upstream shapes file shipped in PR #1017 (commit `02b87497`) contains four patterns that pyshacl 0.25.0 / 0.26.0 / 0.31.0 cannot validate. Two of these were already documented by Luis Oala in PR #1025 (the AbsenceBench example — see Bug A and Bug B in that PR's body); two appear to be new findings. **Per the spec-discipline convention established in PR #1025, this PR does not modify `tasks/croissant-tasks*.ttl`.** Bugs are documented here as upstream issues to address.
+The upstream shapes file shipped in PR #1017 (commit `02b87497`) contains four patterns that pyshacl 0.25.0 / 0.26.0 / 0.31.0 cannot validate. Two of these were already documented in PR #1025 (the AbsenceBench example — see Bug A and Bug B in that PR's body); two appear to be new findings. **Per the spec-discipline convention established in PR #1025, this PR does not modify `tasks/croissant-tasks*.ttl`.** Bugs are documented here as upstream issues to address.
 
 | # | Shape | Symptom | Status vs PR #1025 |
 |---|-------|---------|--------------------|
-| 1 | `TaskProblemShape` | `sh:property` blank node missing `sh:path` (its body is an `sh:or`) — pyshacl rejects it as not a well-formed PropertyShape | **Known** — = Luis's Bug A |
+| 1 | `TaskProblemShape` | `sh:property` blank node missing `sh:path` (its body is an `sh:or`) — pyshacl rejects it as not a well-formed PropertyShape | **Known** — = Bug A |
 | 2 | `TaskShape` (base) | Base `croissant:evaluation` constraint allows only `EvaluationTask`; `TaskProblemShape` allows `EvaluationSpec`; `TaskProblem ⊑ Task` so both shapes apply additively under RDFS inference, and `EvaluationSpec` (the documented pattern in MMLU canonical example) gets rejected by the base shape | **New** — not flagged in PR #1025 |
-| 3 | `EvaluationTaskShape` | `sh:qualifiedMinCount 1` without `sh:qualifiedValueShape` on `croissant:evaluatedSolution` — invalid SHACL | **Known** — = Luis's Bug B |
+| 3 | `EvaluationTaskShape` | `sh:qualifiedMinCount 1` without `sh:qualifiedValueShape` on `croissant:evaluatedSolution` — invalid SHACL | **Known** — = Bug B |
 | 4 | `TaskSolutionShape` | Deeply nested `sh:or → sh:property → sh:node → sh:property` causes pyshacl to lose the inner `sh:qualifiedValueShape` | **Possibly new** — not in PR #1025's findings table |
 
 Suggested fixes (also recorded in `validation_report.json` `upstream_issues`):

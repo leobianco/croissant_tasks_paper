@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "run_date": "2026-05-02T14:23:00Z",
   "parameters": {
-    "pdf_location": "/Users/ktgiahieu/Documents/croissant/tasks/automation/2505.21828v1.pdf",
+    "pdf_location": "~/Documents/croissant/tasks/automation/2505.21828v1.pdf",
     "paper_url": "https://arxiv.org/abs/2505.21828v1",
     "dataset_url": "https://huggingface.co/datasets/YuehHanChen/SAGE-Eval"
   },

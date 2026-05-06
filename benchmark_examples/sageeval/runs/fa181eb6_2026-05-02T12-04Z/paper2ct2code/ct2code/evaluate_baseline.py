@@ -16,7 +16,7 @@ import re
 # --- Configuration & Setup ---
 
 def load_environment():
-    env_path = Path("/Users/ktgiahieu/Documents/croissant/tasks/automation/.env")
+    env_path = Path("~/Documents/croissant/tasks/automation/.env")
     load_dotenv(dotenv_path=env_path)
     
     openai_key = os.getenv("OPENAI_KEY_CT")
@@ -219,7 +219,7 @@ def main():
     parser.add_argument("--eval-only", action="store_true", help="Skip generation and re-evaluate existing generated responses")
     args = parser.parse_args()
 
-    base_dir = Path("/Users/ktgiahieu/Documents/croissant/tasks/benchmark_examples/sageeval/runs/fa181eb6_2026-05-02T12-04Z/paper2ct2code")
+    base_dir = Path("~/Documents/croissant/tasks/benchmark_examples/sageeval/runs/fa181eb6_2026-05-02T12-04Z/paper2ct2code")
     ct2code_dir = base_dir / "ct2code"
     raw_outputs_dir = ct2code_dir / "raw_outputs"
     raw_outputs_dir.mkdir(parents=True, exist_ok=True)
@@ -371,7 +371,7 @@ def main():
         "@type": "schema:Dataset",
         "@id": f"urn:uuid:sage-eval-output-{file_model_name}",
         "schema:name": f"{file_model_name}'s outputs on SAGE-Eval",
-        "schema:url": f"file:///Users/ktgiahieu/Documents/croissant/tasks/benchmark_examples/sageeval/runs/fa181eb6_2026-05-02T12-04Z/paper2ct2code/ct2code/raw_outputs/results_{file_model_name}.jsonl"
+        "schema:url": f"file://~/Documents/croissant/tasks/benchmark_examples/sageeval/runs/fa181eb6_2026-05-02T12-04Z/paper2ct2code/ct2code/raw_outputs/results_{file_model_name}.jsonl"
     }
 
     with open(final_solution_path, "w") as f:

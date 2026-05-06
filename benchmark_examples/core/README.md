@@ -69,9 +69,9 @@ Both `pdf2ct/core_problem.jsonld` and `pdf2ct/core_solution_gemini-2-5-pro_paper
 
 | # | Shape | pyshacl symptom | Status vs PR #1025 |
 |---|---|---|---|
-| 1 | `TaskProblemShape` | `'exists but is not a well-formed SHACL PropertyShape'` — `sh:property` blank node has no top-level `sh:path` (its body is `sh:or`) | **Known** — = Luis's Bug A |
+| 1 | `TaskProblemShape` | `'exists but is not a well-formed SHACL PropertyShape'` — `sh:property` blank node has no top-level `sh:path` (its body is `sh:or`) | **Known** — = Bug A |
 | 2 | `TaskShape` (base) | `ClassConstraintComponent: croissant:evaluation must point to an EvaluationTask` — but `TaskProblemShape` permits `EvaluationSpec`; both shapes apply additively under RDFS inference because `TaskProblem ⊑ Task` | **New** — not flagged in PR #1025 |
-| 3 | `EvaluationTaskShape` | `'QualifiedValueShapeConstraintComponent must have at least one sh:qualifiedValueShape predicate'` — `sh:qualifiedMinCount 1` used without companion `sh:qualifiedValueShape` | **Known** — = Luis's Bug B |
+| 3 | `EvaluationTaskShape` | `'QualifiedValueShapeConstraintComponent must have at least one sh:qualifiedValueShape predicate'` — `sh:qualifiedMinCount 1` used without companion `sh:qualifiedValueShape` | **Known** — = Bug B |
 | 4 | `TaskSolutionShape` | Same load error as #3 inside an `sh:or → sh:property → sh:node → sh:property` chain — pyshacl loses the inner `sh:qualifiedValueShape` in deeply nested anonymous shapes | **Possibly new** — not in PR #1025's findings table |
 
 **Spec discipline**: per PR #1025's convention, this PR deliberately **does not modify** `tasks/croissant-tasks*.ttl` or `tasks/validator.py`. Bugs are documented as upstream issues with suggested fixes in [`pdf2ct/summary.md`](pdf2ct/summary.md) and [`pdf2ct/validation_report.json`](pdf2ct/validation_report.json) to address in PR #1017.

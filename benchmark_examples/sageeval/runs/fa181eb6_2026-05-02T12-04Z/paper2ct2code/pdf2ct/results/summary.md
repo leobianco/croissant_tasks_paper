@@ -3,7 +3,7 @@
 ## Overview
 - **Date**: 2026-05-02
 - **Paper**: SAGE-Eval: Evaluating LLMs for Systematic Generalizations of Safety Facts (Chen Yueh-Han, Guy Davidson, Brenden M. Lake)
-- **PDF**: /Users/ktgiahieu/Documents/croissant/tasks/automation/2505.21828v1.pdf
+- **PDF**: ~/Documents/croissant/tasks/automation/2505.21828v1.pdf
 - **Paper URL**: https://arxiv.org/abs/2505.21828v1
 - **Dataset URL**: https://huggingface.co/datasets/YuehHanChen/SAGE-Eval
 - **@id base**: https://arxiv.org/abs/2505.21828v1

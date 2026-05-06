@@ -60,7 +60,7 @@
   },
   "command_line": "cursor: 15 Task() invocations of subagent_type=generalPurpose with model=claude-4-sonnet (see runner_note). Equivalent direct-API command for a fresh run on a different machine: `python absencebench_implementation.py --dry-run --model claude-sonnet-4-5` (requires ANTHROPIC_API_KEY).",
   "agent_transcript": {
-    "path": "/home/luis/.cursor/projects/<session-uuid>/agent-transcripts/<conversation-uuid>.jsonl",
+    "path": "~/.cursor/projects/<session-uuid>/agent-transcripts/<conversation-uuid>.jsonl",
     "committed": false,
     "note": "Lives on the contributor's machine; session-scoped Cursor metadata; not portable. Referenced for audit but not part of this commit. The implementation script + this manifest + the per-instance outputs_*.jsonl + committed prompts/ dir are sufficient for full reproducibility."
   },

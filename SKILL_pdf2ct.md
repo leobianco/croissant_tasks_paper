@@ -53,7 +53,7 @@ If you finish your analysis but have not written all files, go back and write th
 
 | Parameter | Template Variable | Default | Description |
 |-----------|------------------|---------|-------------|
-| Results directory | `{{results_dir}}` | `/app/results` (Jetty) / `./results` (local) | Output directory for all results |
+| Results directory | `{{results_dir}}` | `/app/results` / `./results` (local) | Output directory for all results |
 | PDF location | `{{pdf_location}}` | — | The location of the PDF to convert (local path or URL), specified in the user prompt. |
 | Paper URL | `{{paper_url}}` | (empty) | Optional arXiv/DOI URL — used to derive stable `@id` base IRIs |
 | Dataset URL | `{{dataset_url}}` | (empty) | Optional canonical dataset URL (HuggingFace, GitHub) used as the task's `croissant:input` |
